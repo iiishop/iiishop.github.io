@@ -104,3 +104,4 @@ theme: landscape
 deploy:
   type: git
   repo: https://github.com/iiishop/iiishop.github.io.git
+  branch: main
