@@ -2,13 +2,13 @@
 # Developer: argvchs
 
 # avatar image url
-head_img:
+head_img: /Picture/head.png
 
 # home page head info block
 head_block_enable: true
 
 # home page head background style
-home_background:
+home_background: /Picture/background.jpg
 
 # WARNING! vf_fonts (variable fonts) feature is EXPERIMENTAL
 # MDN: https://developer.mozilla.org/zh-CN/docs/Web/CSS/CSS_Fonts/Variable_Fonts_Guide
