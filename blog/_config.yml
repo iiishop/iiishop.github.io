@@ -105,3 +105,26 @@ deploy:
   type: git
   repo: https://github.com/iiishop/iiishop.github.io.git
   branch: main
+
+uglify:
+    mangle: true
+    exclude:
+        - "*.min.js"
+        - "**/*.min.js"
+    es6: false
+
+clean_css:
+    exclude:
+        - "*.min.css"
+        - "**/*.min.css"
+
+html_minifier:
+    collapseBooleanAttributes: true
+    collapseWhitespace: true
+    ignoreCustomComments: [!!js/regexp /^\s*more/]
+    removeComments: true
+    removeEmptyAttributes: true
+    removeScriptTypeAttributes: true
+    removeStyleLinkTypeAttributes: true
+    minifyJS: true
+    minifyCSS: true

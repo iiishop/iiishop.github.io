@@ -75,7 +75,7 @@ footer:
 # Gitalk
 # https://github.com/gitalk/gitalk
 gitalk:
-    enable: false
+    enable: true
     clientID: # Default ClientID
     clientSecret: # Default ClientSecret
     repo: # The name of repository of store comments
