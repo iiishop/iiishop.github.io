@@ -142,15 +142,15 @@
   },
   "active": "a9010701c997810a",
   "lastOpenFiles": [
+    "source/about/index.md",
+    "source/categories/index.md",
+    "source/_posts/test.md",
+    "source/_posts/新企划.md",
+    "source/tags/index.md",
+    "source/_posts/hello-world.md",
     "scaffolds/post.md",
     "scaffolds/draft.md",
     "scaffolds/page.md",
-    "source/_posts/hello-world.md",
-    "source/about/index.md",
-    "source/_posts/test.md",
-    "source/tags/index.md",
-    "source/categories/index.md",
-    "themes/particlex/README.md",
-    "node_modules/stylus/Readme.md"
+    "themes/particlex/README.md"
   ]
 }
