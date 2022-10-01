@@ -10,3 +10,9 @@ mathjax:
 # For Test
 - The Latex test
 $$\sum\limits_{ i =1}^{10}i $$
+
+- Mermaid test
+```mermaid
+graph
+A-->B
+```
