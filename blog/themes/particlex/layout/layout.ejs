@@ -21,7 +21,7 @@
         pageTitle = "Archives | ";
     pageTitle += config.title;
     var rootlink = config.root;
-    site.posts.data.sort((a, b) => b.date - a.date)
+    site.posts.data.sort((a, b) => b.date - a.date);
 %>
 <!DOCTYPE html>
 <html lang="<%- config.language %>">
@@ -34,7 +34,7 @@
         <meta name="keywords" content="<%- config.keywords %>">
         <link rel="icon" href="<%- theme.head_img %>">
         <script src="https://cdn.staticfile.org/instant.page/5.1.0/instantpage.min.js" type="module"></script>
-        <script src="https://cdn.staticfile.org/font-awesome/6.1.1/js/all.min.js"></script>
+        <script src="https://cdn.staticfile.org/font-awesome/6.2.0/js/all.min.js"></script>
         <% if (theme.vf_fonts_enable) { %>
         <link rel="stylesheet" href="<%- rootlink %>css/test/fonts.min.css">
         <link rel="stylesheet" href="<%- rootlink %>css/test/particlex.css">
@@ -68,6 +68,11 @@
         <script src="https://cdn.staticfile.org/highlight.js/11.5.1/highlight.min.js"></script>
         <script src="<%- rootlink %>js/particlex.js"></script>
         <script src="<%- rootlink %>js/showimg.js"></script>
+        <canvas
+            id="background"
+            style="position:fixed;top:0;left:0;width:100vw;height:100vh;pointer-events:none;z-index:-1"
+        ></canvas>
+        <script src="/js/background.js"></script>
         <%- include("script") %>
     </body>
 </html>

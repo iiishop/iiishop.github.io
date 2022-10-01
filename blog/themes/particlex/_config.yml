@@ -54,6 +54,10 @@ card:
             name: github
             theme: brands
             link: https://github.com/iiishop
+        steam:
+            name: steam
+            theme: brands
+            link: https://steamcommunity.com/id/mcgougou
         # Example:
         # <name>:
         #    name: <icon-name>
@@ -66,7 +70,7 @@ card:
 
 # footer info
 footer:
-    since: 20xx
+    since: 2022
     # Customize the server domain name ICP
     ICP:
         enable: false
@@ -75,7 +79,7 @@ footer:
 # Gitalk
 # https://github.com/gitalk/gitalk
 gitalk:
-    enable: true
+    enable: false
     clientID: # Default ClientID
     clientSecret: # Default ClientSecret
     repo: # The name of repository of store comments
