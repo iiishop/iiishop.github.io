@@ -147,3 +147,9 @@ mathjax:
         {}
         # you can put your extension options here
         # see http://docs.mathjax.org/en/latest/options/input/tex.html#tex-extension-options for more detail
+
+mermaid: ## mermaid url https://github.com/knsv/mermaid
+  enable: true
+  version: "8.0.0"
+  options:  # find more api options from https://github.com/knsv/mermaid/blob/master/src/mermaidAPI.js
+    #startOnload: true  // default true
