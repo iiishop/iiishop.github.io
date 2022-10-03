@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "source/_posts/test.md",
+            "file": "source/_posts/新企划.md",
             "mode": "preview",
             "source": true
           }
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "source/categories/index.md",
+            "file": "source/_posts/新企划.md",
             "mode": "source",
             "source": true
           }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/categories/index.md",
+                "file": "source/_posts/新企划.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/categories/index.md",
+                "file": "source/_posts/新企划.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/categories/index.md"
+                "file": "source/_posts/新企划.md"
               }
             }
           }
@@ -142,11 +142,11 @@
   },
   "active": "406a79feed98e00c",
   "lastOpenFiles": [
-    "source/about/index.md",
-    "source/_posts/hello-world.md",
-    "source/_posts/test.md",
+    "source/_posts/置顶公告.md",
     "source/_posts/新企划.md",
     "source/categories/index.md",
+    "source/about/index.md",
+    "source/_posts/hello-world.md",
     "scaffolds/post.md",
     "scaffolds/page.md",
     "scaffolds/draft.md",
