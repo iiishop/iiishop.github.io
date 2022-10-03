@@ -40,7 +40,7 @@ external_link:
   exclude: ''
 filename_case: 0
 render_drafts: false
-post_asset_folder: false
+post_asset_folder: true
 relative_link: false
 future: true
 highlight:
@@ -153,3 +153,8 @@ mermaid: ## mermaid url https://github.com/knsv/mermaid
   version: "8.0.0"
   options:  # find more api options from https://github.com/knsv/mermaid/blob/master/src/mermaidAPI.js
     #startOnload: true  // default true
+
+lazyload:
+  enable: true
+  onlypost: false
+  loadingImg: /images/loading.gif
