@@ -1,8 +1,13 @@
 ---
 title: DearDeer新企划
 date: 2022-10-02 06:26:29
-tags: 游戏企划
-categories: 中文推文
+tags: 
+- 游戏企划
+- DearDeer
+- 单车
+categories: 
+- 中文推文
+- 游戏企划
 ---
 # 项目名称
 `单车`

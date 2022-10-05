@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "source/_posts/DearDeer新企划.md",
+            "file": "source/_posts/对新项目的一些碎碎念.md",
             "mode": "preview",
             "source": true
           }
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "source/_posts/DearDeer新企划.md",
+            "file": "source/_posts/对新项目的一些碎碎念.md",
             "mode": "source",
             "source": true
           }
@@ -73,8 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "29027a0ea4219d18",
@@ -90,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/_posts/DearDeer新企划.md",
+                "file": "source/_posts/对新项目的一些碎碎念.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/_posts/DearDeer新企划.md",
+                "file": "source/_posts/对新项目的一些碎碎念.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/_posts/DearDeer新企划.md"
+                "file": "source/_posts/对新项目的一些碎碎念.md"
               }
             }
           }
@@ -143,15 +142,15 @@
   },
   "active": "406a79feed98e00c",
   "lastOpenFiles": [
-    "source/_posts/置顶公告.md",
     "source/_posts/DearDeer新企划.md",
+    "source/_posts/对新项目的一些碎碎念.md",
+    "source/_posts/置顶公告.md",
+    "source/_posts/hello-world.md",
     "source/categories/index.md",
     "source/about/index.md",
-    "source/_posts/hello-world.md",
     "scaffolds/post.md",
     "scaffolds/page.md",
     "scaffolds/draft.md",
-    "source/tags/index.md",
-    "themes/particlex/README.md"
+    "source/tags/index.md"
   ]
 }
