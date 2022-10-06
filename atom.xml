@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>iiishop&#39;s blog</title>
+  
+  
+  <link href="http://iiishop.github.io/atom.xml" rel="self"/>
+  
+  <link href="http://iiishop.github.io/"/>
+  <updated>2022-10-02T21:01:48.473Z</updated>
+  <id>http://iiishop.github.io/</id>
+  
+  <author>
+    <name>iiishop</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>置顶公告</title>
+    <link href="http://iiishop.github.io/2025/09/30/%E7%BD%AE%E9%A1%B6%E5%85%AC%E5%91%8A/"/>
+    <id>http://iiishop.github.io/2025/09/30/%E7%BD%AE%E9%A1%B6%E5%85%AC%E5%91%8A/</id>
+    <published>2025-09-30T07:35:36.000Z</published>
+    <updated>2022-10-02T21:01:48.473Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="原博客因技术问题暂停使用">原博客因技术问题暂停使用</h1><h1 id="现博客初期使用较为简陋">现博客初期使用，较为简陋</h1>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;原博客因技术问题暂停使用&quot;&gt;原博客因技术问题暂停使用&lt;/h1&gt;
+&lt;h1 id=&quot;现博客初期使用较为简陋&quot;&gt;现博客初期使用，较为简陋&lt;/h1&gt;
+</summary>
+      
+    
+    
+    
+    <category term="中文推文" scheme="http://iiishop.github.io/categories/%E4%B8%AD%E6%96%87%E6%8E%A8%E6%96%87/"/>
+    
+    <category term="公告" scheme="http://iiishop.github.io/categories/%E4%B8%AD%E6%96%87%E6%8E%A8%E6%96%87/%E5%85%AC%E5%91%8A/"/>
+    
+    
+    <category term="公告" scheme="http://iiishop.github.io/tags/%E5%85%AC%E5%91%8A/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>游戏设计中的团队合作</title>
+    <link href="http://iiishop.github.io/2022/10/06/%E6%B8%B8%E6%88%8F%E8%AE%BE%E8%AE%A1%E4%B8%AD%E7%9A%84%E5%9B%A2%E9%98%9F%E5%90%88%E4%BD%9C/"/>
+    <id>http://iiishop.github.io/2022/10/06/%E6%B8%B8%E6%88%8F%E8%AE%BE%E8%AE%A1%E4%B8%AD%E7%9A%84%E5%9B%A2%E9%98%9F%E5%90%88%E4%BD%9C/</id>
+    <published>2022-10-06T05:15:57.000Z</published>
+    <updated>2022-10-06T06:37:33.829Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="前言">前言</h1><p>此篇推文是关于<code>游戏设计艺术</code>一书中有关团队合作内容的整理笔记。</p><p>在高中时期，我曾花费一年粗略地翻阅了此书。现今，我会重新整理此前在此书中记录的零散笔记，并总结成推文发布。</p><h1 id="团队合作的必要性">团队合作的必要性</h1><p>现代的电子游戏，涉及到的方面越来越多，游戏设计师很难再单凭靠一腔热情完成一款成功的游戏作品，这时候，团队和团队合作的意义就出现了。</p><span id="more"></span><h1 id="成功团队的秘诀">成功团队的秘诀</h1><p>要成就一个成功的团队，最核心也是最严肃的一个关键点是<code>爱</code></p><p>当然这并不是说只要整个团队表现的一派和谐、其乐融融就能做成一款好的游戏(虽然这也没有坏处)。</p><p>这里说的爱，是团队成员需要对他们的作品拥有爱。<code>当团队中的每个人都对他们共同制作的游戏以及该游戏面向的玩家群体有很深的、很真切的爱，那么所有的不同与争论都会被搁置在一边。</code>因为他们想让正在设计制作的游戏变成现实，想让它尽可能完美地呈现在玩家面前。</p><p>类似的，<code>爱不足</code>会干扰团队，甚至影响他人，让游戏制作难以继续甚至停滞而散开。</p><p>关于<code>爱不足</code>主要有下面三个主要问题</p><ol type="1"><li><h3 id="团队成员不喜欢任何游戏">团队成员不喜欢任何游戏</h3><p>这对一个现在正充满热情扑向游戏设计制作的开发者来说可能很难理解，但这类人是确切存在的，或许是随波逐流，或许是利益导向，他们进入了游戏行业。但如果队伍中存在这样的成员，整个团队就像背上了重担，难行寸步。他们不会做出什么贡献，而把大部分时间精力浪费在与那些真正热爱游戏的成员的争论上，甚至连带影响那些成员也丧失热情。</p><p>应对这样的成员只有一种方法：<strong><em>请他们离开团队</em></strong></p></li><li><h3 id="团队成员比起当前设计的游戏更喜欢另一种设计模式的游戏">团队成员比起当前设计的游戏，更喜欢另一种设计模式的游戏</h3><p>这个问题在游戏团队中很是常见，比如：一名喜欢fps游戏的关卡策划，被迫去参与rpg游戏的开发；一名对画面有独到见解的技术美术，被迫去开发一款传奇类页游。这样的反差通常会让那些原有稳定的<code>爽点</code>的游戏开发者难以在新项目中找回那种感觉，从而消极怠工，难以展现出原有的技术和水平。</p><p>那么应对这样的成员，通常是需要主动沟通，引导他们去发现正在开发的游戏中吸引他们的部分，或者了解如何在当前正在开发的游戏中加入那些让他们感到舒适的新特性和新元素的想法。这些引导的最终结果，是让这款项目在那些成员眼中，从原先的痛恨厌恶，想划水而快速结束<code>变成</code>一款令他们热爱而活跃参与的项目。这不是一件简单的事情，团队管理者通常需要深入了解哪些部分能令这些开发者感到畅快而想要参与，并且在一次次沟通中潜移默化地将这种可能性表现出来，从而让成员的心态得到改变。</p><p>这里书中作者展现了这样一个例子<br><code>在作者曾参与开发的一款海盗游戏中，动画师们原先为那些激动人心的海盗角色设计了丰富的动作和面部动画，但随着设计的推进，他们发现游戏的主体是船，而那些海盗角色通常被置于离玩家很远的地方，那么任何细节的动画设计都是没有意义的。当动画师们意识到了这点，很明显地就失去了对项目的爱。而在后来的一次团队会议中，一位动画师带来了一些手稿，并表示：当意识到那些船才是明星时，他在思考如何才能让它们看起来很酷。于是，在那些手稿中出现了诸如：船如何被炸成碎片；桅杆如何断裂，并沉入大海；在船帆遭遇加农炮弹冲击时如何被撕裂···这些手稿给其他的动画师带来了启发和鼓舞，他们开始重新找回对项目的热爱，继续了项目的进行。</code></p><p>这里项目可以说是被这位动画师用这些手稿从失败的边缘抢救了回来，通过这些手稿的引导和启发，让那些动画师重新找到了热爱的点，并继续参与了制作。</p></li><li><h3 id="团队成员喜欢同一个游戏的不同版本">团队成员喜欢同一个游戏的不同版本</h3><p>这是在团队中最常见，最有普遍性的一个问题。这个时候，团队中每个成员都对当前开发的游戏非常热爱，但每个成员对这款游戏最终的导向都有着截然不同的看法，那么这种看法的不同势必会导致团队的分歧。</p><p>避免这种分歧的关键是：尽早让所有人都明确知道游戏的设计。</p><p>在游戏制作过程中难免会遇到争论和分歧，但如果每个人都能抱着同一个目标去讨论它，并且对他人的看法保持尊重，团队就能得到最终的结果。</p><p>一旦制作人在会议中感觉到有人不是真心同意某一想法，就必须停下工作，找寻让他们满意并继续合作的方法。否则他们就会慢慢失去对这个项目的热情，而失去对项目做有价值贡献的能力。<br>没有什么决定是<strong>最终决定</strong>，除非整个团队都同意它是<strong>最终决定</strong>。</p></li></ol><hr><p>-未完待续</p><h2 id="实在无法感受对当前项目的热爱">实在无法感受对当前项目的热爱。</h2><h1 id="共同设计">共同设计</h1><h1 id="团队交流">团队交流</h1><h1 id="关于游戏设计文档">关于游戏设计文档</h1><h1 id="附录">附录</h1><ul><li><h2 id="透镜">透镜</h2></li><li><h2 id="拓展阅读">拓展阅读</h2></li></ul>]]></content>
+    
+    
+    <summary type="html">&lt;h1 id=&quot;前言&quot;&gt;前言&lt;/h1&gt;
+&lt;p&gt;此篇推文是关于&lt;code&gt;游戏设计艺术&lt;/code&gt;一书中有关团队合作内容的整理笔记。&lt;/p&gt;
+&lt;p&gt;在高中时期，我曾花费一年粗略地翻阅了此书。现今，我会重新整理此前在此书中记录的零散笔记，并总结成推文发布。&lt;/p&gt;
+&lt;h1 id=&quot;团队合作的必要性&quot;&gt;团队合作的必要性&lt;/h1&gt;
+&lt;p&gt;现代的电子游戏，涉及到的方面越来越多，游戏设计师很难再单凭靠一腔热情完成一款成功的游戏作品，这时候，团队和团队合作的意义就出现了。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="中文推文" scheme="http://iiishop.github.io/categories/%E4%B8%AD%E6%96%87%E6%8E%A8%E6%96%87/"/>
+    
+    <category term="学习" scheme="http://iiishop.github.io/categories/%E4%B8%AD%E6%96%87%E6%8E%A8%E6%96%87/%E5%AD%A6%E4%B9%A0/"/>
+    
+    <category term="游戏设计" scheme="http://iiishop.github.io/categories/%E4%B8%AD%E6%96%87%E6%8E%A8%E6%96%87/%E5%AD%A6%E4%B9%A0/%E6%B8%B8%E6%88%8F%E8%AE%BE%E8%AE%A1/"/>
+    
+    
+    <category term="游戏设计" scheme="http://iiishop.github.io/tags/%E6%B8%B8%E6%88%8F%E8%AE%BE%E8%AE%A1/"/>
+    
+    <category term="笔记" scheme="http://iiishop.github.io/tags/%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="游戏设计艺术" scheme="http://iiishop.github.io/tags/%E6%B8%B8%E6%88%8F%E8%AE%BE%E8%AE%A1%E8%89%BA%E6%9C%AF/"/>
+    
+    <category term="团队合作" scheme="http://iiishop.github.io/tags/%E5%9B%A2%E9%98%9F%E5%90%88%E4%BD%9C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>游戏设计元素</title>
+    <link href="http://iiishop.github.io/2022/10/06/%E6%B8%B8%E6%88%8F%E8%AE%BE%E8%AE%A1%E5%85%83%E7%B4%A0/"/>
+    <id>http://iiishop.github.io/2022/10/06/%E6%B8%B8%E6%88%8F%E8%AE%BE%E8%AE%A1%E5%85%83%E7%B4%A0/</id>
+    <published>2022-10-05T23:33:43.000Z</published>
+    <updated>2022-10-06T02:39:37.872Z</updated>
+    
+    <content type="html"><![CDATA[<pre class="mermaid">flowchart TBA{体验}---B{玩家}A---兴趣曲线A---间接控制A---场景A---a[世界]a---故事a---美学a---空间a---角色B---玩家的脑---动机B---d((界面))---C{游戏}B---改变B---试玩---C试玩---DB---其他玩家---社群---BC---元素C---主题C---技术C---机制---谜题机制---平衡C---D{流程}---E{设计师}D---创意D---迭代E---团队---文档E---责任E---目标E---推销---客户---盈利E---客户E---盈利</pre><h1 id="游戏设计是一项涉及范围非常广的事务后面会不定期对每个涉及到的环节单独阐述">游戏设计是一项涉及范围非常广的事务，后面会不定期对每个涉及到的环节单独阐述。</h1>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;pre class=&quot;mermaid&quot;&gt;flowchart TB
+A{体验}---B{玩家}
+A---兴趣曲线
+A---间接控制
+A---场景
+A---a[世界]
+a---故事
+a---美学
+a---空间
+a---角色
+B---玩家的脑---动机
+B---d((界面))---C</summary>
+      
+    
+    
+    
+    <category term="中文推文" scheme="http://iiishop.github.io/categories/%E4%B8%AD%E6%96%87%E6%8E%A8%E6%96%87/"/>
+    
+    
+    <category term="游戏设计" scheme="http://iiishop.github.io/tags/%E6%B8%B8%E6%88%8F%E8%AE%BE%E8%AE%A1/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>对新项目的一些碎碎念</title>
+    <link href="http://iiishop.github.io/2022/10/05/%E5%AF%B9%E6%96%B0%E9%A1%B9%E7%9B%AE%E7%9A%84%E4%B8%80%E4%BA%9B%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
+    <id>http://iiishop.github.io/2022/10/05/%E5%AF%B9%E6%96%B0%E9%A1%B9%E7%9B%AE%E7%9A%84%E4%B8%80%E4%BA%9B%E7%A2%8E%E7%A2%8E%E5%BF%B5/</id>
+    <published>2022-10-04T21:52:20.000Z</published>
+    <updated>2022-10-05T00:08:10.523Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="立项动机">立项动机</h1><p>因环境的变化，感觉周遭感知到的压力越来越大。记忆中少年时总是恬静而美好，但在如今，却又难以捉摸。</p><p>曾经带来回忆的地方大多以及不存在了。那些实体的药引消失后，能带来治愈的，也只剩下情感了。</p><span id="more"></span><p>曾无数次在梦中见到那些恍惚，如午后的阳光般迷迷朦朦，温暖，令人心安。此处没有令人心烦的催促，也没有令人压抑的人群，留下的只有憧憬和希望。但梦终究是梦，梦醒后，尽管尽力去追寻，却也再无法沉浸入那种感觉。</p><p>音乐是情感很好的载体，感受旋律时，初见的场面和美好会历历浮现在眼前，作为引子，将人拉入回忆。优秀的作曲家能将自己的情感带入音乐，令听者跨越时代而产生共情，或许这也是我钟情于老歌的缘由。</p><p>但音乐带来的即视感终究会是消散的，反复聆听的华丽也会落入尘俗，因而我想要的是能够持久留存的情感。</p><p>那么游戏就作为一个更完美的载体出现了。</p><p>游戏是一种集大成者的媒介，他跨越融合了声光影，且能让观者真实代入角色，达到共情的目的。因此，注意力便被转入此处，或许用一款游戏来重现那份美好，也是一种不错的选择。</p><h1 id="选择此题材的原因">选择此题材的原因</h1><p>这个想法的出现，也已经有三四年了。期间，也曾经有过一些尝试，但总觉得不妥而放弃。</p><p>目前这种形式也算是对游戏性和制作难度上的妥协。原先有过还原一整座2010时期的城市，供自由探索回味的想法，但是这种想法的实现难度太大，而且也不太符合现在的游戏市场。故放弃了开放，转型为线性流程。</p><p>单车可以说是慢节奏生活的一种代表。在游戏中，它是一条线索，贯穿着主人公的整个回忆，也是主人公的一种情感。在游戏中，它是一种载体，能够让玩家回味那个年代的感觉。</p><h1 id="项目的形式">项目的形式</h1><p>整体时常把握在一小时左右，将游戏活动范围缩小到四五个场景中，在游玩过程中，随着回忆的深入，能感受到场景随着时代在变化。</p><p>整个游戏的主题围绕着主人公的一种蜕变，通过这种回忆和体验唤醒了主人公内心深处沉睡的情感，从而让主人公重新找到自己的方向。</p><h1 id="一些建议">一些建议</h1><ol type="1"><li><p>在设计之初先确定故事发生的城市的规划，创作一张城市的俯瞰图，并且在关键的时间点做出城市内容的变化，方便后面设计的代入。</p></li><li><p>在设计游戏的时候，要考虑到玩家的游戏习惯，比如玩家喜欢在游戏中自由探索，那么就要在游戏中留出一些小范围的空间，让玩家自由探索，让玩家亲身体验游戏想传达的氛围，而不是一直被游戏的线索牵着走。</p></li></ol><h1 id="后记">后记</h1><p>这作也算是对我精神上的一种释放，希望能一切尽善尽美，顺利坐成。另外或许我的表达仍然不是那么得清晰，这种情感上的描述也是走向游戏制作人的一大难点，若感觉不大能理解意思，可以继续与我深入交流。</p><p>wish you all the best!</p>]]></content>
+    
+    
+    <summary type="html">&lt;h1 id=&quot;立项动机&quot;&gt;立项动机&lt;/h1&gt;
+&lt;p&gt;因环境的变化，感觉周遭感知到的压力越来越大。记忆中少年时总是恬静而美好，但在如今，却又难以捉摸。&lt;/p&gt;
+&lt;p&gt;曾经带来回忆的地方大多以及不存在了。那些实体的药引消失后，能带来治愈的，也只剩下情感了。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="中文推文" scheme="http://iiishop.github.io/categories/%E4%B8%AD%E6%96%87%E6%8E%A8%E6%96%87/"/>
+    
+    <category term="游戏企划" scheme="http://iiishop.github.io/categories/%E4%B8%AD%E6%96%87%E6%8E%A8%E6%96%87/%E6%B8%B8%E6%88%8F%E4%BC%81%E5%88%92/"/>
+    
+    <category term="单车" scheme="http://iiishop.github.io/categories/%E4%B8%AD%E6%96%87%E6%8E%A8%E6%96%87/%E6%B8%B8%E6%88%8F%E4%BC%81%E5%88%92/%E5%8D%95%E8%BD%A6/"/>
+    
+    
+    <category term="DearDeer" scheme="http://iiishop.github.io/tags/DearDeer/"/>
+    
+    <category term="单车" scheme="http://iiishop.github.io/tags/%E5%8D%95%E8%BD%A6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>DearDeer新企划</title>
+    <link href="http://iiishop.github.io/2022/10/02/DearDeer%E6%96%B0%E4%BC%81%E5%88%92/"/>
+    <id>http://iiishop.github.io/2022/10/02/DearDeer%E6%96%B0%E4%BC%81%E5%88%92/</id>
+    <published>2022-10-01T22:26:29.000Z</published>
+    <updated>2022-10-04T21:51:50.089Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="项目名称">项目名称</h1><p><code>单车</code></p><h1 id="简介">简介</h1><ul><li>社畜主人公在选择淘汰陪伴十年的单车的最后一晚，游历整个城市，将回忆和热情一步步找回的故事</li></ul><span id="more"></span><h1 id="概要">概要</h1><ul><li><h2 id="设计背景">设计背景</h2></li></ul><ol type="1"><li>十年的高速发展使得中国的面貌有了极大改观，它带来了社会生活质量的进步，但也带走了一些灵魂中的东西。</li><li>本项目通过将单车作为这种意识的象征，让其引领主人公在最后一次环行中逐步唤醒心中沉睡的<code>逐步丢失的灵魂</code>，得到身心上的回归和犀利。</li></ol><ul><li><h2 id="设计说明">设计说明</h2><ul><li><h3 id="美术设计">美术设计</h3><code>横版正交视角</code>，参考十三机兵防卫圈。<br>美术设计是此类氛围向游戏的灵魂，通过画面将玩家逐步带入主人公的故事，为玩家沉浸于故事提供了良好的基底。</li><li><h3 id="系统设计">系统设计</h3><pre class="mermaid">   graph TD;  A[人物系统]   B[背景系统]   C[其他系统]  A--&gt;D[人物动画控制]  D--&gt;骑行动画  D--&gt;移动动画  B--&gt;E[时间控制]  E--&gt;清晨  E--&gt;白天  E--&gt;午后  E--&gt;傍晚  E--&gt;夜晚  B--&gt;场景控制  C--&gt;对话系统  C--&gt;时间轴系统  A--&gt;人物时间段切换</pre></li><li><h3 id="剧情脚本设计">剧情脚本设计</h3>本作剧情设定为<code>一小时左右的小短片</code>，故大致为线性剧情，少有分支，但不影响结局。</li><li><strong><em>脚本设计说明</em></strong><ol type="1"><li>先使用<strong>流程图</strong>，将<em>关键的</em><code>时间/空间节点</code>进行串联，并标注每个节点的序号</li><li>再对每个<code>节点</code>展开，撰写具体的对话和动作内容</li></ol>例<code>(十三机兵防卫圈脚本设定集)</code>(加载时间略长，一般需要五分钟左右)：<br><img src="/2022/10/02/DearDeer%E6%96%B0%E4%BC%81%E5%88%92/十三机兵防卫圈剧情脚本.jpg" alt="十三机兵防卫圈剧情脚本.jpg"></li></ul></li></ul><h1 id="目标人员">目标人员</h1><ul><li><h2 id="程序-已足够"><del>程序</del> （已足够）</h2><ol type="1"><li>至少掌握一项面向对象语言</li><li>代码结构明确，文档清晰</li><li>掌握git以及plasticSCM的使用方法</li><li>了解Unity，能够熟练使用Unity则更佳</li><li>拥有较好的沟通能力</li><li>拥有较好的学习能力</li><li>及时反馈</li></ol></li><li><h2 id="美术">美术</h2><ul><li><h3 id="原画美术">原画美术</h3><ol type="1"><li>能够根据剧情以及人物设定，设计出符合氛围的原画作品</li><li>掌握git的使用方法</li><li>拥有较好的沟通能力</li><li>拥有较好的学习能力</li><li>及时反馈</li></ol></li><li><h3 id="d美术">2D美术</h3><ol type="1"><li>能够根据原画设定，绘制出对应的人物或场景物件</li><li>拥有良好的团队协调能力，保证团队画风一致</li><li>掌握git的使用方法</li><li>拥有较好的沟通能力</li><li>拥有较好的学习能力</li><li>及时反馈</li></ol></li><li><h3 id="技术美术">技术美术</h3><ol type="1"><li>能够熟练使用Unity完成Shader、后处理、光线效果、粒子效果等</li><li>代码结构明确，文档清晰</li><li>掌握git以及plasticSCM的使用方法</li><li>拥有较好的沟通能力</li><li>拥有较好的学习能力</li><li>及时反馈</li></ol></li></ul></li><li><h2 id="策划">策划</h2><ul><li><h3 id="文本剧情策划">文本剧情策划</h3><ol type="1"><li>能将剧情以类小说形式撰写</li><li>掌握markdown语言，会使用obsidian进行团队合作</li><li>拥有较好的沟通能力</li><li>拥有较好的学习能力</li><li>及时反馈</li></ol></li><li><h3 id="剧情脚本策划已足够"><del>剧情脚本策划</del>（已足够）</h3><ol type="1"><li>能够将文本剧情抽象成剧情脚本，并且清晰明确</li><li>掌握markdown语言，会使用obsidian进行团队合作</li><li>拥有较好的沟通能力</li><li>拥有较好的学习能力</li><li>及时反馈</li></ol></li><li><h3 id="程序脚本策划架构师">程序脚本策划(架构师)</h3><ol type="1"><li>至少掌握一门面向对象语言</li><li>能够使用多种设计模式进行程序脚本的设计</li><li>了解Unity的工作模式</li><li>掌握markdown语言，会使用obsidian进行团队合作</li><li>掌握Visio的使用方法</li><li>拥有较好的沟通能力</li><li>拥有较好的学习能力</li><li>及时反馈</li></ol></li></ul></li><li><h2 id="音效">音效</h2><ul><li><h3 id="氛围音效bgm">氛围音效(BGM)</h3><ol type="1"><li>拥有从剧情中抽象出氛围并作曲的能力</li><li>掌握git的使用方式</li><li>拥有较好的沟通能力</li><li>拥有较好的学习能力</li><li>及时反馈</li></ol></li><li><h3 id="应用音效">应用音效</h3><ol type="1"><li>拥有对各种细微声效的捕捉和采集能力</li><li>掌握git的使用方式</li><li>拥有较好的沟通能力</li><li>拥有较好的学习能力</li><li>及时反馈</li></ol></li></ul></li></ul><h1 id="开发环境">开发环境</h1><ol type="1"><li>Unity+PlasticSCM <em>开发</em></li><li>Git+GitHub <em>团队资源共享</em></li><li>QQ+飞书+可能会出现的团队合作集成软件 <em>交流</em></li><li>Obsidian+Zerotier <em>设计信息实时共享</em></li><li>Visio <em>流程架构设计</em></li></ol><h1 id="组织架构">组织架构</h1><pre class="mermaid">graph TD;A[制作人]---C[主美术]A---B[主程序]A---D[主策划]H[氛围音效]I[应用音效]D---F[程序脚本策划]---ID-----HD---剧情脚本策划D---文本剧情策划B---G[技术美术]B---应用程序师---IB---FC---2D美术C---原画美术C---GC---H</pre><h1 id="附录">附录</h1><p><a href="https://markdown.com.cn">markdown官方教程</a><br><a href="https://www.liaoxuefeng.com/wiki/896043488029600">廖雪峰git教程</a><br><a href="https://www.runoob.com/csharp/csharp-tutorial.html">RunoobC#教程</a><br><a href="https://learn.u3d.cn">Unity中文课堂</a></p><ul><li>时间表<br><pre class="mermaid">   gantt  title 简化时间图  dateFormat YYYY-MM-DD  section 制作  企划书制作 :2022-09-30,3d  新人招收 :2022-10-02,10d  环境搭建及前期工作 :2022-10-01,14d  剧情撰写 :2022-10-05,30d  程序策划及实验 :a,2022-11-01,14d  制作 :b,after a,60d  测试 :after b,10d</pre></li></ul>]]></content>
+    
+    
+    <summary type="html">&lt;h1 id=&quot;项目名称&quot;&gt;项目名称&lt;/h1&gt;
+&lt;p&gt;&lt;code&gt;单车&lt;/code&gt;&lt;/p&gt;
+&lt;h1 id=&quot;简介&quot;&gt;简介&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;社畜主人公在选择淘汰陪伴十年的单车的最后一晚，游历整个城市，将回忆和热情一步步找回的故事&lt;/li&gt;
+&lt;/ul&gt;</summary>
+    
+    
+    
+    <category term="中文推文" scheme="http://iiishop.github.io/categories/%E4%B8%AD%E6%96%87%E6%8E%A8%E6%96%87/"/>
+    
+    <category term="游戏企划" scheme="http://iiishop.github.io/categories/%E4%B8%AD%E6%96%87%E6%8E%A8%E6%96%87/%E6%B8%B8%E6%88%8F%E4%BC%81%E5%88%92/"/>
+    
+    
+    <category term="游戏企划" scheme="http://iiishop.github.io/tags/%E6%B8%B8%E6%88%8F%E4%BC%81%E5%88%92/"/>
+    
+    <category term="DearDeer" scheme="http://iiishop.github.io/tags/DearDeer/"/>
+    
+    <category term="单车" scheme="http://iiishop.github.io/tags/%E5%8D%95%E8%BD%A6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://iiishop.github.io/2018/09/20/hello-world/"/>
+    <id>http://iiishop.github.io/2018/09/20/hello-world/</id>
+    <published>2018-09-20T04:23:35.000Z</published>
+    <updated>2022-10-03T18:54:57.640Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your veryfirst post. Check <a href="https://hexo.io/docs/">documentation</a> formore info. If you get any problems when using Hexo, you can find theanswer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> oryou can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><span id="more"></span><h2 id="quick-start">Quick Start</h2><h3 id="create-a-new-post">Create a new post</h3><div class="sourceCode" id="cb1"><pre class="sourceCode bash"><code class="sourceCode bash"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="ex">$</span> hexo new <span class="st">"My New Post"</span></span></code></pre></div><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="run-server">Run server</h3><div class="sourceCode" id="cb2"><pre class="sourceCode bash"><code class="sourceCode bash"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a><span class="ex">$</span> hexo server</span></code></pre></div><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="generate-static-files">Generate static files</h3><div class="sourceCode" id="cb3"><pre class="sourceCode bash"><code class="sourceCode bash"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a><span class="ex">$</span> hexo generate</span></code></pre></div><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="deploy-to-remote-sites">Deploy to remote sites</h3><div class="sourceCode" id="cb4"><pre class="sourceCode bash"><code class="sourceCode bash"><span id="cb4-1"><a href="#cb4-1" aria-hidden="true" tabindex="-1"></a><span class="ex">$</span> hexo deploy</span></code></pre></div><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very
+first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for
+more info. If you get any problems when using Hexo, you can find the
+answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot;&gt;troubleshooting&lt;/a&gt; or
+you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="EnglishBlog" scheme="http://iiishop.github.io/categories/EnglishBlog/"/>
+    
+    
+    <category term="Helloworld" scheme="http://iiishop.github.io/tags/Helloworld/"/>
+    
+    <category term="Test" scheme="http://iiishop.github.io/tags/Test/"/>
+    
+  </entry>
+  
+</feed>
