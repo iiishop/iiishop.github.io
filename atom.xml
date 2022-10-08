@@ -84,9 +84,9 @@
     <link href="http://iiishop.github.io/2022/10/06/%E6%B8%B8%E6%88%8F%E8%AE%BE%E8%AE%A1%E5%85%83%E7%B4%A0/"/>
     <id>http://iiishop.github.io/2022/10/06/%E6%B8%B8%E6%88%8F%E8%AE%BE%E8%AE%A1%E5%85%83%E7%B4%A0/</id>
     <published>2022-10-05T23:33:43.000Z</published>
-    <updated>2022-10-08T01:52:26.553Z</updated>
+    <updated>2022-10-08T01:53:48.277Z</updated>
     
-    <content type="html"><![CDATA[<pre class="mermaid">flowchart TBA{体验}---B{玩家}A---兴趣曲线A---间接控制A---场景A---a[世界]a---故事a---美学a---空间a---角色B---玩家的脑---动机B---d((界面))---C{游戏}B---改变B---试玩---C试玩---DB---其他玩家---社群---BC---元素C---主题C---技术C---机制---谜题机制---平衡C---D{流程}---E{设计师}D---创意D---迭代E---团队---文档E---责任E---目标E---推销---客户---盈利E---客户E---盈利click 团队 "https://iiishop.github.io/2022/10/06/游戏设计中的团队合作/" _blankclick 文档 "https://iiishop.github.io/2022/10/06/游戏设计中的团队合作/#关于游戏设计文档" _blank</pre><h1 id="游戏设计是一项涉及范围非常广的事务后面会不定期对每个涉及到的环节单独阐述">游戏设计是一项涉及范围非常广的事务，后面会不定期对每个涉及到的环节单独阐述。</h1>]]></content>
+    <content type="html"><![CDATA[<pre class="mermaid">flowchart TBA{体验}---B{玩家}A---兴趣曲线A---间接控制A---场景A---a[世界]a---故事a---美学a---空间a---角色B---玩家的脑---动机B---d((界面))---C{游戏}B---改变B---试玩---C试玩---DB---其他玩家---社群---BC---元素C---主题C---技术C---机制---谜题机制---平衡C---D{流程}---E{设计师}D---创意D---迭代E---团队---文档E---责任E---目标E---推销---客户---盈利E---客户E---盈利click 团队 "https://iiishop.github.io/2022/10/06/游戏设计中的团队合作/" _blankclick 文档 "https://iiishop.github.io/2022/10/06/游戏设计中的团队合作/#关于游戏设计文档" _blank</pre><h1 id="可以通过点击进入相关推文页面">可以通过<code>点击</code>进入相关推文页面</h1><h1 id="游戏设计是一项涉及范围非常广的事务后面会不定期对每个涉及到的环节单独阐述">游戏设计是一项涉及范围非常广的事务，后面会不定期对每个涉及到的环节单独阐述。</h1>]]></content>
     
     
       
@@ -167,11 +167,11 @@ B---d((界面))---C</summary>
     <category term="游戏企划" scheme="http://iiishop.github.io/categories/%E4%B8%AD%E6%96%87%E6%8E%A8%E6%96%87/%E6%B8%B8%E6%88%8F%E4%BC%81%E5%88%92/"/>
     
     
-    <category term="游戏企划" scheme="http://iiishop.github.io/tags/%E6%B8%B8%E6%88%8F%E4%BC%81%E5%88%92/"/>
-    
     <category term="DearDeer" scheme="http://iiishop.github.io/tags/DearDeer/"/>
     
     <category term="单车" scheme="http://iiishop.github.io/tags/%E5%8D%95%E8%BD%A6/"/>
+    
+    <category term="游戏企划" scheme="http://iiishop.github.io/tags/%E6%B8%B8%E6%88%8F%E4%BC%81%E5%88%92/"/>
     
   </entry>
   
