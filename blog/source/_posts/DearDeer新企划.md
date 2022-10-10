@@ -160,6 +160,7 @@ C---H
 	gantt
 	title 简化时间图
 	dateFormat YYYY-MM-DD
+	axisFormat %m/%d
 	section 制作
 	企划书制作 :2022-09-30,3d
 	新人招收 :2022-10-02,10d
