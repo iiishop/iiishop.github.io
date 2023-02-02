@@ -6,7 +6,7 @@
   <link href="http://iiishop.github.io/atom.xml" rel="self"/>
   
   <link href="http://iiishop.github.io/"/>
-  <updated>2022-10-02T21:01:48.473Z</updated>
+  <updated>2023-02-02T08:25:09.477Z</updated>
   <id>http://iiishop.github.io/</id>
   
   <author>
@@ -21,15 +21,14 @@
     <link href="http://iiishop.github.io/2025/09/30/%E7%BD%AE%E9%A1%B6%E5%85%AC%E5%91%8A/"/>
     <id>http://iiishop.github.io/2025/09/30/%E7%BD%AE%E9%A1%B6%E5%85%AC%E5%91%8A/</id>
     <published>2025-09-30T07:35:36.000Z</published>
-    <updated>2022-10-02T21:01:48.473Z</updated>
+    <updated>2023-02-02T08:25:09.477Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="原博客因技术问题暂停使用">原博客因技术问题暂停使用</h1><h1 id="现博客初期使用较为简陋">现博客初期使用，较为简陋</h1>]]></content>
+    <content type="html"><![CDATA[]]></content>
     
     
       
       
-    <summary type="html">&lt;h1 id=&quot;原博客因技术问题暂停使用&quot;&gt;原博客因技术问题暂停使用&lt;/h1&gt;
-&lt;h1 id=&quot;现博客初期使用较为简陋&quot;&gt;现博客初期使用，较为简陋&lt;/h1&gt;
+    <summary type="html">
 </summary>
       
     
@@ -41,6 +40,36 @@
     
     
     <category term="公告" scheme="http://iiishop.github.io/tags/%E5%85%AC%E5%91%8A/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>心灵迷宫_框架</title>
+    <link href="http://iiishop.github.io/2023/02/02/%E5%BF%83%E7%81%B5%E8%BF%B7%E5%AE%AB-%E6%A1%86%E6%9E%B6/"/>
+    <id>http://iiishop.github.io/2023/02/02/%E5%BF%83%E7%81%B5%E8%BF%B7%E5%AE%AB-%E6%A1%86%E6%9E%B6/</id>
+    <published>2023-02-02T08:12:54.000Z</published>
+    <updated>2023-02-02T12:09:58.596Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="引言">引言</h1><p>此项目设计是基于项目组成员<strong>程禹</strong>的提议，外加我个人的思路衍生而形成。此篇文章将会介绍游戏涉及到的功能框架。</p><span id="more"></span><h1 id="框架">框架</h1><pre class="mermaid">flowchart TBsubgraph 0 [游离于场景之外的功能]    direction LR    存档---保存    存档---12    subgraph 01 [背包]        人物装备        主武器和副武器        04        02        011[后续有待添加]    end    subgraph 02 [各项属性]        血量        行走速度        攻击速度        021[后续有待添加]    end    subgraph 03 [特殊技能]        钩爪        时间停止        031[后续有待添加]    end    subgraph 04 [道具]        041(主动道具)        042(被动道具)    endend1[开始界面]subgraph 2 [教学关 //DEMO的终点]    direction LR    subgraph 21 [移动教学]        211([ad移动])---        212([space跳跃])    end    21==&gt;22    subgraph 22 [武器教学]        direction TB        221([左键向鼠标位置开火])---        222([右键特殊攻击 //远程武器一般为枪柄近战])    end    22==&gt;23    subgraph 23 [道具教学]        direction TB        231([道具的装备])---        232([滚轮切换主动道具])---        233([R使用主动道具])---        234([被动道具的装备 //以二段跳为例])---        235([使用二段跳通过常规无法通过的地形])        234-.-212    end    23==&gt;24    subgraph 24 [特殊技能教学]        direction TB        241([特殊技能的使用 //以钩爪为例])---        242([使用钩爪通过常规无法通过的地形])---        243([将钩爪用作为攻击手段 //拉近敌人])    endendsubgraph 3 [诊所所在的街道]    direction LR    4    5    6endsubgraph 4 [诊所]    direction LR    41([接取委托的办公桌])---    411[每次委托结束后会刷新出现四个新的委托]    41---412    subgraph 412 [委托检查机制]        当前玩家等级        玩家最近游玩类型频率        是否达到剧情触发条件    end    42([升级的场所])    43([更换武器装备以及道具的场所])endsubgraph 5 [购买武器和道具的场所]    购买武器    购买道具    subgraph 51[改装武器 //后续更新内容]        direction LR        枪管        瞄具        弹匣        枪托        511[其他配件 //例如镭射指示]        //后续也可考虑加入诸如流血/中毒等特殊效果    endendsubgraph 6 [购买装备和服装的场所]    61[购买装备]---装备大多拥有高防御与高属性加成但样式制式且无特殊效果    62[购买服装 //后续与特殊效果一同更新]---621[服装大多防御力低下且少有属性加成但样式随意切多有特殊效果 //看起来比较二次元]end1--&gt;11(新游戏)1--&gt;12(载入游戏)1--&gt;13(设置)1--&gt;退出11--&gt;2124==&gt;402-.-42人物装备-.-43主武器和副武器-.-4304-.-43</pre><h1 id="流程外的内容">流程外的内容</h1><ol type="1"><li><p>游戏整体的推进方式依照剧情而定，例如：</p><ol type="1"><li><code>等级推进</code>在玩家到达某指定等级后便会强制进入剧情</li><li><code>时间推进</code>游戏内时间是有一定流逝速度的，无论玩家在做什么时间都会经过。而到达了某一特定时间，玩家便会强制进入剧情</li><li><code>事件推进</code>这种方法比较传统，需要和其他的进行组合。例如完成了某个npc的任务后，走到另外某处地方便会发生事件而进入剧情；达到了一定等级，当经过某处地方便会发生事件而进入剧情……</li></ol><p>依照剧情的进行方式，对框架进行更改而产生相应效果。</p></li><li><p>框架仍然较为粗略，需要进行更加细致的描述，例如：</p><ol type="1"><li>补全目前能想到的所有<code>特殊技能</code></li><li>补全目前能想到的所有<code>武器右键效果</code></li><li>补全目前能想到的所有<code>特殊效果</code></li><li><code>近战类</code>武器在此框架中未被描述，需要斟酌后再进行制作</li></ol></li><li><p>因为内容的关系，网页上浏览字体较小，请搭配放大使用。</p></li><li><p>由于时间限制，此次对于框架的描述并未搭配相关图例提示，若有未解之处请及时反馈。</p></li></ol>]]></content>
+    
+    
+    <summary type="html">&lt;h1 id=&quot;引言&quot;&gt;引言&lt;/h1&gt;
+&lt;p&gt;此项目设计是基于项目组成员&lt;strong&gt;程禹&lt;/strong&gt;的提议，外加我个人的思路衍生而形成。此篇文章将会介绍游戏涉及到的功能框架。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="中文推文" scheme="http://iiishop.github.io/categories/%E4%B8%AD%E6%96%87%E6%8E%A8%E6%96%87/"/>
+    
+    <category term="游戏企划" scheme="http://iiishop.github.io/categories/%E4%B8%AD%E6%96%87%E6%8E%A8%E6%96%87/%E6%B8%B8%E6%88%8F%E4%BC%81%E5%88%92/"/>
+    
+    <category term="心灵迷宫" scheme="http://iiishop.github.io/categories/%E4%B8%AD%E6%96%87%E6%8E%A8%E6%96%87/%E6%B8%B8%E6%88%8F%E4%BC%81%E5%88%92/%E5%BF%83%E7%81%B5%E8%BF%B7%E5%AE%AB/"/>
+    
+    
+    <category term="DearDeer" scheme="http://iiishop.github.io/tags/DearDeer/"/>
+    
+    <category term="心灵迷宫" scheme="http://iiishop.github.io/tags/%E5%BF%83%E7%81%B5%E8%BF%B7%E5%AE%AB/"/>
+    
+    <category term="框架" scheme="http://iiishop.github.io/tags/%E6%A1%86%E6%9E%B6/"/>
     
   </entry>
   
