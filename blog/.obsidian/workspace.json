@@ -1,0 +1,154 @@
+{
+  "main": {
+    "id": "363542eaaf13ed3c",
+    "type": "split",
+    "children": [
+      {
+        "id": "e211f88b9fb50120",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0766302468368ad9",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0cbc9bafb36a8cbd",
+    "type": "split",
+    "children": [
+      {
+        "id": "d6f79d4a833652d5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "37a522b53feb5f77",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5fc5b11a6e5a550e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7e59b7e0e965e779",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "29027a0ea4219d18",
+    "type": "split",
+    "children": [
+      {
+        "id": "bf540e9251be650b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f7644d0bd803e256",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "33e19f8705850876",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "88eac7906f86ed04",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c262447a3fe12b07",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:新建白板": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "0766302468368ad9",
+  "lastOpenFiles": [
+    "source/_posts/心灵迷宫-框架.md",
+    "source/_posts/关于主线的想法.md",
+    "source/_posts/游戏设计元素.md",
+    "source/_posts/对新项目的一些碎碎念.md",
+    "source/_posts/游戏设计中的团队合作.md",
+    "source/_posts/置顶公告.md",
+    "source/_posts/DearDeer新企划.md",
+    "source/_posts/hello-world.md",
+    "source/_posts/KMP-algorithm.md",
+    "source/about/index.md"
+  ]
+}

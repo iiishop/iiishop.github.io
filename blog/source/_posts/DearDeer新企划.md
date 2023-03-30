@@ -170,3 +170,15 @@ C---H
 	制作 :b,after a,60d
 	测试 :after b,10d
 	```
+	更新
+	```mermaid
+	gantt
+	title 现期时间图
+	dateFormat YYYY-MM-DD
+	axisFormat %m/%d
+	剧情撰写 :2022-11-10,40d
+	demo制作 :a,2022-11-01,50d
+	剧情逻辑抽象 :b,after a,4d
+	程序逻辑抽象 :c,after b,3d
+	制作(暂定) :after c,30d
+	```
