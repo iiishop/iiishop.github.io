@@ -112,7 +112,7 @@ The *Next array* shows how many elements can be ***skipped*** if the last matchi
 
 From this table, we can see the pattern String is `"ABACABAB"` and the *Next array* is `"00101232"`, now I will show the code to tell how to generate the *Next array*.
 
-```Java
+```java
 public int[] GetNext(String Pattern){
 	int Pattern_Length = Pattern.length();
 	int[] Next = new int[Pattern_Length];
@@ -136,20 +136,20 @@ Let's simulate this process using "ABACABAB".
 So, it will do 7 loops.
 
 1. i = 1, j = 0
-	```Java
+	```java
 	Pattern[i] = 'B', Pattern[j] = 'A'
 	Next[1] = 0
 	```
 
 2. i = 2, j = 0
-	```Java
+	```java
 	Pattern[i] = 'A', Pattern[j] = 'A'
 	j++
 	Next[2] = 1
 	```
 
 3. i = 3, j = 1
-	```Java
+	```java
 	Pattern[i] = 'C', Pattern[j] = 'B'
 	j = Next[j - 1] = 0
 	Pattern[j] = 'A'
@@ -157,28 +157,28 @@ So, it will do 7 loops.
 	```
 
 4. i = 4, j = 0
-	```Java
+	```java
 	Pattern[i] = 'A', Pattern[j] = 'A'
 	j++
 	Next[4] = 1
 	```
 
 5. i = 5, j = 1
-	```Java
+	```java
 	Pattern[i] = 'B', Pattern[j] = 'B'
 	j++
 	Next[5] = 2
 	```
 
 6. i = 6, j = 2
-	```Java
+	```java
 	Pattern[i] = 'A', Pattern[j] = 'A'
 	j++
 	Next[6] = 3
 	```
 
 7. i = 7, j = 3
-	```Java
+	```java
 	Pattern[i] = 'B', Pattern[j] = 'C'
 	j = Next[j - 1] = 1
 	Pattern[j] = 'B'
@@ -218,7 +218,7 @@ Now, we found out how to generate the *Next array*, the next, I will show you ho
 
 I will show the code first.
 
-```Java
+```java
 public int KMP(String Source, String Pattern){
 	int[] Next = GetNext(Pattern);
 	for (int i = 0, j = 0; i < Source.length(); i++) {
@@ -244,7 +244,7 @@ Skip them, the last part `j == Pattern_Length` means j points over the **pattern
 The `KMP` algorithm reduced the *Time-complexity* of the `B_F String-matching algorithm`. The most important part of `KMP` is solving the **Next array**, this step is an expression of ***recursive thinking***, we need to appreciate this idea and use it to improve efficiency when thinking of algorithms to solve other problems.
 
 # Whole Code
-```Java
+```java
 public int KMP(String Source, String Pattern){
 	int Pattern_Length = Pattern.length();
 	int[] Next = new int[Pattern_Length];

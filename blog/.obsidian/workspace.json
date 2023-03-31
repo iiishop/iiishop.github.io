@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "e211f88b9fb50120",
+        "id": "c428ec5cf4b0cc8c",
         "type": "tabs",
         "children": [
           {
-            "id": "0766302468368ad9",
+            "id": "c8e8fc286db78ca2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "source/_posts/ObjectPool.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "29027a0ea4219d18",
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "source/_posts/ObjectPool.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "source/_posts/ObjectPool.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "source/_posts/ObjectPool.md"
+              }
             }
           }
         ]
@@ -138,17 +147,30 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "0766302468368ad9",
+  "active": "c8e8fc286db78ca2",
   "lastOpenFiles": [
+    "source/_posts/KMP-algorithm.md",
+    "source/_posts/ObjectPool.md",
+    "public/tags/Design-Pattern/index.html",
+    "public/tags/Design-Pattern",
+    "public/tags/Unity/index.html",
+    "public/tags/Unity",
+    "未命名.md",
+    "未命名.canvas",
+    "source/_posts/hello-world.md",
+    "source/_posts/DearDeer新企划.md",
+    "source/_posts/置顶公告.md",
+    "source/_posts/游戏设计中的团队合作.md",
+    "source/_posts/游戏设计元素.md",
     "source/_posts/心灵迷宫-框架.md",
     "source/_posts/关于主线的想法.md",
-    "source/_posts/游戏设计元素.md",
     "source/_posts/对新项目的一些碎碎念.md",
-    "source/_posts/游戏设计中的团队合作.md",
-    "source/_posts/置顶公告.md",
-    "source/_posts/DearDeer新企划.md",
-    "source/_posts/hello-world.md",
-    "source/_posts/KMP-algorithm.md",
+    "public/categories/EnglishBlog/Design-Pattern/index.html",
+    "public/categories/EnglishBlog/Design-Pattern",
+    "public/2023/03/30/ObjectPool/index.html",
+    "public/2023/03/30/ObjectPool",
+    "public/2023/03/30",
+    "public/2023/03",
     "source/about/index.md"
   ]
 }
