@@ -8,14 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c8e8fc286db78ca2",
+            "id": "ce683e24ff4f7926",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/_posts/ObjectPool.md",
-                "mode": "preview",
-                "source": false
+                "file": "source/_posts/关于主线的想法.md",
+                "mode": "source",
+                "source": true
               }
             }
           }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "29027a0ea4219d18",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/_posts/ObjectPool.md",
+                "file": "source/_posts/关于主线的想法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/_posts/ObjectPool.md",
+                "file": "source/_posts/关于主线的想法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/_posts/ObjectPool.md"
+                "file": "source/_posts/关于主线的想法.md"
               }
             }
           }
@@ -147,30 +146,31 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "c8e8fc286db78ca2",
+  "active": "37a522b53feb5f77",
   "lastOpenFiles": [
-    "source/_posts/KMP-algorithm.md",
+    "source/_posts/提问的艺术.md",
+    "source/_posts/关于主线的想法.md",
+    "public/categories/中文推文/学习/参考书/index.html",
+    "public/categories/中文推文/学习/参考书",
+    "source/_posts/游戏设计中的团队合作.md",
+    "source/_posts/置顶公告.md",
+    "source/_posts/hello-world.md",
     "source/_posts/ObjectPool.md",
-    "public/tags/Design-Pattern/index.html",
-    "public/tags/Design-Pattern",
-    "public/tags/Unity/index.html",
-    "public/tags/Unity",
+    "source/_posts/KMP-algorithm.md",
+    "source/_posts/游戏设计元素.md",
+    "public/2023/04/04/提问的艺术/index.html",
+    "public/2023/04/04/提问的艺术",
+    "public/2023/04/04",
+    "public/2023/04",
+    "public/page/2/index.html",
+    "public/page/2",
+    "public/page",
+    "public/archives/page/2/index.html",
     "未命名.md",
     "未命名.canvas",
-    "source/_posts/hello-world.md",
     "source/_posts/DearDeer新企划.md",
-    "source/_posts/置顶公告.md",
-    "source/_posts/游戏设计中的团队合作.md",
-    "source/_posts/游戏设计元素.md",
     "source/_posts/心灵迷宫-框架.md",
-    "source/_posts/关于主线的想法.md",
     "source/_posts/对新项目的一些碎碎念.md",
-    "public/categories/EnglishBlog/Design-Pattern/index.html",
-    "public/categories/EnglishBlog/Design-Pattern",
-    "public/2023/03/30/ObjectPool/index.html",
-    "public/2023/03/30/ObjectPool",
-    "public/2023/03/30",
-    "public/2023/03",
     "source/about/index.md"
   ]
 }

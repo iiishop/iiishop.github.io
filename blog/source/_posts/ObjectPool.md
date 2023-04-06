@@ -51,7 +51,7 @@ This variable is the most important part, it can allow we to invoke the ObjectPo
 
 # Functions
 - ## Awake
-    ```csharp
+    ```cs
     private void Awake()
     {
         if (Instance != null && Instance != this)
@@ -65,10 +65,11 @@ This variable is the most important part, it can allow we to invoke the ObjectPo
         }
     }
     ```
+
     `Awake` is the standard part of a Signleton class, it is used to be sure the program only has one instance. When the instance is not the first instance, it will kill the instance. And if it is, this function will invoke `FillPool`.
 
 - ## FillPool
-    ```csharp
+    ```cs
     private void FillPool(int Size)
     {
         for (int i = 0; i < Size; i++)
@@ -81,10 +82,11 @@ This variable is the most important part, it can allow we to invoke the ObjectPo
         }
     }
     ```
+
     `FillPool` will fill the pool by evey prefab in the Prefabs. It will invoke `ReturnPool` to do a standard process to return the object into the pool.
 
 - ## ReturnPool
-    ```csharp
+    ```cs
     public void ReturnPool(GameObject Object)
     {
         Object.SetActive(false);
@@ -103,7 +105,7 @@ This variable is the most important part, it can allow we to invoke the ObjectPo
     `ReturnPool` will put the object into the corresponding pool, if the pool does not exist, it will create one first.
 
 - ## GetPool
-    ```csharp
+    ```cs
     public GameObject GetPool(GameObject Object)
     {
         var NAME = Object.name + "(Clone)"; //Because Unity will add "(Clone)" in the end of the instantiated prefabs
@@ -127,8 +129,8 @@ When invoke the `FillPool` method, it will fill the pool with a `Size` number of
 To solve this problem, we only need to add a `Prefabs` parameter to the `FillPool` method in order to designate what prefabs need to be fill into the pool.
 
 The improved `FillPool` method will be looked like as this
-```csharp
-private void FillPool(int Size, List<GameObject> Prefabs = this.Prefabs)
+```cs
+private void FillPool(int Size, List<GameObject> Prefabs)
 {
     for (int i = 0; i < Size; i++)
     {
@@ -141,7 +143,7 @@ private void FillPool(int Size, List<GameObject> Prefabs = this.Prefabs)
 }
 ```
 and the `GetPool` method need to be improved like this
-```csharp
+```cs
 public GameObject GetPool(GameObject Object)
 {
     var NAME = Object.name + "(Clone)"; //Because Unity will add "(Clone)" in the end of the instantiated prefabs
@@ -155,6 +157,25 @@ public GameObject GetPool(GameObject Object)
     return obj;
 }
 ```
+meanwhile, the `Awake` also need to be improved like this
+```cs
+private void Awake()
+{
+    if (Instance != null && Instance != this)
+    {
+        Destroy(this);
+    }
+    else
+    {
+        Instance = this;
+        FillPool(Pool_Size, Prefabs);
+    }
+}
+
+```
+
+
+
 
 Now, when we use the `GetPool` to get a object from pool, it will only create one object in the pool when this type of object is empty in the pool.
 
