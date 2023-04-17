@@ -169,3 +169,18 @@ encrypt: # hexo-blog-encrypt
     - { name: 暂未公开, password: iiishop130588 }
   wrong_pass_message: 抱歉, 这个密码看着不太对, 请再试试.
   wrong_hash_message: 抱歉, 这个文章不能被校验, 不过您还是能看看解密后的内容.
+# live2d:
+#   enable: false
+#   scriptFrom: local
+#   pluginRootPath: live2dw/
+#   pluginJsPath: lib/
+#   pluginModelPath: assets/
+#   tagMode: false
+#   model:
+#     use: live2d-widget-model-miku #选择哪种模型
+#   display: #放置位置和大小
+#     position: right
+#     width: 300
+#     height: 600
+#   mobile:
+#     show: false #是否在手机端显示

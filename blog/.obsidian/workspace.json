@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/_posts/关于主线的想法.md",
+                "file": "source/_posts/游戏设计中的团队合作.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/_posts/关于主线的想法.md",
+                "file": "source/_posts/游戏设计中的团队合作.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/_posts/关于主线的想法.md",
+                "file": "source/_posts/游戏设计中的团队合作.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/_posts/关于主线的想法.md"
+                "file": "source/_posts/游戏设计中的团队合作.md"
               }
             }
           }
@@ -146,31 +146,54 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "37a522b53feb5f77",
+  "active": "ce683e24ff4f7926",
   "lastOpenFiles": [
-    "source/_posts/提问的艺术.md",
-    "source/_posts/关于主线的想法.md",
-    "public/categories/中文推文/学习/参考书/index.html",
-    "public/categories/中文推文/学习/参考书",
-    "source/_posts/游戏设计中的团队合作.md",
-    "source/_posts/置顶公告.md",
-    "source/_posts/hello-world.md",
-    "source/_posts/ObjectPool.md",
-    "source/_posts/KMP-algorithm.md",
-    "source/_posts/游戏设计元素.md",
-    "public/2023/04/04/提问的艺术/index.html",
-    "public/2023/04/04/提问的艺术",
-    "public/2023/04/04",
-    "public/2023/04",
-    "public/page/2/index.html",
-    "public/page/2",
-    "public/page",
-    "public/archives/page/2/index.html",
-    "未命名.md",
-    "未命名.canvas",
-    "source/_posts/DearDeer新企划.md",
-    "source/_posts/心灵迷宫-框架.md",
-    "source/_posts/对新项目的一些碎碎念.md",
-    "source/about/index.md"
+    "db.json",
+    "public/images/sidebar-bg.jpg",
+    "public/css/main.css",
+    "public/css/noscript.css",
+    "public/images/B1764DB3-774F-48C3-81D3-6AED98C8735E_1_105_c.jpeg",
+    "public/archives/2022/index.html",
+    "public/images/loading.gif",
+    "public/images/logo-algolia-nebula-blue-full.svg",
+    "public/images/logo.svg",
+    "public/images/apple-touch-icon-next.png",
+    "public/images/favicon-16x16-next.png",
+    "public/js/third-party/tags/pdf.js",
+    "public/js/third-party/tags/mermaid.js",
+    "public/js/third-party/statistics/lean-analytics.js",
+    "public/js/third-party/statistics/firestore.js",
+    "public/js/third-party/search/local-search.js",
+    "public/js/third-party/search/algolia-search.js",
+    "public/js/third-party/math/mathjax.js",
+    "public/images/head.png",
+    "public/images/favicon-32x32-next.png",
+    "public/2022/10/02/DearDeer新企划/十三机兵防卫圈剧情脚本.jpg",
+    "node_modules/core-js/README.md",
+    "node_modules/core-js/CHANGELOG.md",
+    "node_modules/inquirer/node_modules/lodash/release.md",
+    "node_modules/inquirer/node_modules/lodash/README.md",
+    "node_modules/hexo-helper-live2d/node_modules/lodash/release.md",
+    "node_modules/rx/readme.md",
+    "node_modules/prompts/readme.md",
+    "node_modules/nan/README.md",
+    "node_modules/rc-config-loader/node_modules/js-yaml/README.md",
+    "node_modules/rc-config-loader/node_modules/js-yaml/CHANGELOG.md",
+    "node_modules/nan/LICENSE.md",
+    "node_modules/nan/CHANGELOG.md",
+    "node_modules/encoding/node_modules/iconv-lite/README.md",
+    "node_modules/encoding/node_modules/iconv-lite/Changelog.md",
+    "node_modules/nan/doc/script.md",
+    "node_modules/nan/doc/v8_misc.md",
+    "node_modules/nan/doc/v8_internals.md",
+    "node_modules/nan/doc/string_bytes.md",
+    "node_modules/nan/doc/scopes.md",
+    "node_modules/nan/doc/persistent.md",
+    "node_modules/nan/doc/object_wrappers.md",
+    "node_modules/nan/doc/node_misc.md",
+    "node_modules/nan/doc/new.md",
+    "node_modules/nan/doc/methods.md",
+    "node_modules/nan/doc/maybe_types.md",
+    "未命名.canvas"
   ]
 }
