@@ -48,15 +48,19 @@
     <link href="http://iiishop.github.io/2023/05/10/CPT-103%E5%A4%8D%E4%B9%A03/"/>
     <id>http://iiishop.github.io/2023/05/10/CPT-103%E5%A4%8D%E4%B9%A03/</id>
     <published>2023-05-10T14:46:39.000Z</published>
-    <updated>2023-05-10T15:16:56.761Z</updated>
+    <updated>2023-05-10T17:00:19.481Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="lec6">Lec6</h1>]]></content>
+    <content type="html"><![CDATA[<h1 id="lec6">Lec6</h1><ol type="1"><li><h2 id="database-design">Database Design</h2>两种被广泛使用的设计方法<ol type="1"><li><h3 id="entity-relationships-modeling">Entity RelationshipsModeling</h3><ol type="1"><li>Top-down approach</li><li>Suitable to structurally construct database</li></ol></li><li><h3 id="normalization">Normalization</h3><ol type="1"><li>Bottom-up approach</li><li>Suitable to transform/fit excel data into database<br><pre class="mermaid">   flowchart A(Conceptual Model)--&gt;B(Logical Model)--&gt;C(Physical Implementation)</pre></li></ol></li></ol></li><li><h2 id="entity-relationships-modeling-1">Entity RelationshipsModeling</h2><ol type="1"><li><h3 id="components">Components:</h3><ol type="1"><li><font color="daaqua"> <strong>Entities</strong> </font>: objects oritems of interest. 指实体</li><li><font color="aqua"> <strong>Attributes</strong> </font>: propertiesof an entity. 指实体的属性</li><li><font color="ligreen"> <strong>Relationships</strong> </font>: linksbewtwwn entities. 指实体之间的关系</li></ol></li></ol><ul><li>实体间的关系可以是<ol type="1"><li><strong>一对一的</strong>，例如一个导员对应一个班级，同时一个班级也只有一个导员</li><li><strong>一对多的</strong>，例如一个导员管理多个学生，同时每个学生都只有一个导员</li><li><strong>多对多的</strong>，例如一个学生学习多个科目，同时一个科目中会有多个学生</li></ol></li></ul></li><li><h2 id="designing-er-models">Designing ER Models</h2><ol type="1"><li>先找出实体，他们通常是名词</li><li>将实体使用圆弧方框在空间中排列</li><li>再寻找实体之间的关系，使用菱形表示在空间中。</li><li>寻找关系的类型，并以此关联实体</li><li>拆分多对多的关系，使用添加实体的方法将其变为多个一对多的关系</li><li>合并一对一的关系，将两个实体合为一个</li><li>寻找实体的属性，并保证相互关联的实体拥有相同的沟通属性</li></ol><ul><li>步骤5，6酌情处理。</li><li>当难说某个东西是实体还是属性时，一般准则<ul><li>实体可以有属性，但属性不会有更小的部分</li><li>实体之间可以有关系，但属性只属于单一的实体</li></ul></li></ul></li></ol><h1 id="lec-7">Lec 7</h1><ol type="1"><li><h2 id="normalization-1">Normalization</h2><ol type="1"><li></li></ol></li></ol>]]></content>
     
     
       
       
     <summary type="html">&lt;h1 id=&quot;lec6&quot;&gt;Lec6&lt;/h1&gt;
-</summary>
+&lt;ol type=&quot;1&quot;&gt;
+&lt;li&gt;&lt;h2 id=&quot;database-design&quot;&gt;Database Design&lt;/h2&gt;
+两种被广泛使用的设计方法
+&lt;ol type=&quot;1&quot;&gt;
+&lt;li&gt;&lt;h3 id=&quot;entity-relati</summary>
       
     
     
