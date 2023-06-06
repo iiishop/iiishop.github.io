@@ -1,4 +1,5 @@
 {
   "promptDelete": false,
-  "vimMode": false
+  "vimMode": false,
+  "alwaysUpdateLinks": true
 }
