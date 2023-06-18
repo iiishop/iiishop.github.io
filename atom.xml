@@ -44,6 +44,49 @@
   </entry>
   
   <entry>
+    <title>读实践论有感</title>
+    <link href="http://iiishop.github.io/2023/06/06/%E8%AF%BB%E5%AE%9E%E8%B7%B5%E8%AE%BA%E6%9C%89%E6%84%9F/"/>
+    <id>http://iiishop.github.io/2023/06/06/%E8%AF%BB%E5%AE%9E%E8%B7%B5%E8%AE%BA%E6%9C%89%E6%84%9F/</id>
+    <published>2023-06-06T07:38:09.000Z</published>
+    <updated>2023-06-08T09:17:17.204Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="摘记">摘记</h1><p><em><code>实践高于认识</code></em></p><p><em><code>只有社会实践才是人们对于外界认识的真理性的标准</code></em></p><p><strong><em><code>首先看到了事物的现象，事物的各个片面，事物的外部联系-》认识的感性阶段</code></em></strong></p><p><em><code>社会实践的继续，使引起感觉到东西反复了多次，生起了认识过程中的突变，产生了感念。概念已经抓住了事物的本质，事物的全体，事物的内部联系。</code></em><br><strong><em><code>使用判断和推理的方法（认识的作用）作用在概念上而产生出了结论-》理性认识的阶段</code></em></strong></p><p><em><code>感性认识到论理认识的推移</code></em></p><p><em><code>感觉到了的东西，我们不能立刻理解他；只有理解了的东西才更深刻的感觉他。</code></em></p><p><em><code>但人不能事事直接经验，事实上多数的知识都是间接经验的东西。</code></em></p><p><em><code>一个人的知识，不外直接经验的和间接经验的两部分。无论各种知识都是不能离开直接经验的。</code></em><br><em><code>经验是感性认识的一种</code></em></p><p><em><code>理性认识依赖于感性认识，感性认识有待于发展到理性认识，这就是辩证唯物论的认识论。</code></em></p><p><em><code>认识从实践始，经过实践得到了理论的认识，还需再回到实践去。</code></em></p><span id="more"></span><h1 id="引言">引言</h1><p>我常被某些感觉所吸引，非常怀念或又非常向往。常沉醉于其中，认为这就是我的追寻。但当我起身妄图寻觅他的源头，他便仿佛被掺混了杂质，逐渐模糊而无迹可寻，只有脑中残存的余韵表示了他的存在，并鼓舞我直到下一次偶遇。</p><p>我自认为是一个理性的人，因而脑中的思考从未有过停滞。我希冀于他的本源、他的存在、他的流向，认为这就是带来世界大一统的关键一处。有些时候，一处场景、一幅画、一首歌、一个字，甚至于脑中闪过的一道电流，都会将我导向某种感觉。将他们抓住，编织成一串思想的网，看看他们的最终走向。</p><p>稍微了解了一点深度学习的知识后，我认为人的感觉全来源于事物特征的集合。这显然是模糊的，他的最终不将会是完全绝对的，甚至于连常识中的一加一都有可能不等于二。根据其他常识的判断，这显然是错误的，不过这一过程也指明了一部分的真理。</p><p>烦闷而在网上踱步，却偶遇一篇好文。其以自身经历为引，串以微光般的精神，在我蒙灰的前路中猛然地闪烁了一忽。这条光路，终将我引向了《实践论》这篇文章。</p><h1 id="实践论">实践论</h1>粗览全篇，已然被作者无边的理论功底和认知深度所惊艳。全篇的理论框架大抵可以以此表现(排版可能歪了)：<br><pre class="mermaid">flowchart LRA1((实践))A1--&gt;B1A2((外界所得))--&gt;B2感性认识---发生突变,产生概念--&gt;C[理性认识]C--反作用,检验--&gt;A1C--检验---&gt;A2subgraph 感性认识    direction TB    B1[直接经验]    B2[间接经验]    end</pre><p>首先，一切的来源都是实践，实践高于一切，实践产生了经验（感觉）从而才有了认识。外界所得指的是其他人的直接经验，例如我们读书，获得的是间接经验，但这对于书的作者来说是直接经验；现代人循古，是间接经验，但对于古人来说是直接经验。</p><p>我们通过实践，看到了事物的现象、事物的各个片面、事物的外部联系，从而获得了感觉。感觉在脑中盘旋，在经过数次反复后，由量变引起质变，发生了突变，产生了概念，因此有了认识。</p><p>接着，我们使用认识得出一些想法而反作用于实践，若认识是正确的，实践也会再次按照脑中预想的成功；若其是错误的，实践也会反映出来，我们也获得了其他的经验，从而继续发展认识。</p><p>上述即为实践论的基本流程，在此仅粗略陈述，下面是我个人的部分感悟。</p><h1 id="想法">想法</h1><ol type="1"><li><h2 id="认识是不能被表述的而感觉可以">认识是不能被表述的，而感觉可以。</h2><p>是的，我们能得到的所有信息都只是感觉，而认识，作为最高一层的思维，只会盘旋于每个人的脑子而无法通过表述让其他人产生相同的认识。</p><p>或许有些人会认为，教科书上的结论性指示，例如科学公式，我们在看到之后便能将其应用于实践（计算），这是否即为我们通过书的表述而获得了认识？</p><p>我认为这并不是获得了认识，或者说我们通过学习公式并不能获得等同于公式发明者或者公式编写人在撰述时的完全的认识。我们确实获得了认识，但这些认识是通过理解公式这一实践和我们其他已有的认识结合作用下产生的认识，对于这部分，会在下一条想法中讲述。</p><p>感觉是可以表述的，我们可以通过各种表现方式来向人描述我们的感觉，这些描述是直观的，例如我们看到了一篇文章，获知了文章中的某些观点，我们可以通过使用摘记的方式将其告知他人，而他人看到的摘记和我们看到的是完全一致的；又比如我们看到一幅画或者听到一首歌，那么完全可以将其原原本本地表现在他人的面前，他人获知的就是与我们获知的相同的感觉。</p><p>或许有些时候我们自认为在讲述着认识，</p></li><li><h2 id="认识会相互结合而检验发展新的认识">认识会相互结合而检验、发展新的认识</h2></li><li><h2 id="感觉最终导向于认识">感觉最终导向于认识</h2></li><li><h2 id="认识无时无刻不在产生">认识无时无刻不在产生</h2></li><li><h2 id="认识的实效性">认识的实效性</h2></li></ol>]]></content>
+    
+    
+    <summary type="html">&lt;h1 id=&quot;摘记&quot;&gt;摘记&lt;/h1&gt;
+&lt;p&gt;&lt;em&gt;&lt;code&gt;实践高于认识&lt;/code&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;code&gt;只有社会实践才是人们对于外界认识的真理性的标准&lt;/code&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;&lt;code&gt;首先看到了事物的现象，事物的各个片面，事物的外部联系-》认识的感性阶段&lt;/code&gt;&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;code&gt;社会实践的继续，使引起感觉到东西反复了多次，生起了认识过程中的突变，产生了感念。概念已经抓住了事物的本质，事物的全体，事物的内部联系。&lt;/code&gt;&lt;/em&gt;&lt;br&gt;
+&lt;strong&gt;&lt;em&gt;&lt;code&gt;使用判断和推理的方法（认识的作用）作用在概念上而产生出了结论-》理性认识的阶段&lt;/code&gt;&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;code&gt;感性认识到论理认识的推移&lt;/code&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;code&gt;感觉到了的东西，我们不能立刻理解他；只有理解了的东西才更深刻的感觉他。&lt;/code&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;code&gt;但人不能事事直接经验，事实上多数的知识都是间接经验的东西。&lt;/code&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;code&gt;一个人的知识，不外直接经验的和间接经验的两部分。无论各种知识都是不能离开直接经验的。&lt;/code&gt;&lt;/em&gt;&lt;br&gt;
+&lt;em&gt;&lt;code&gt;经验是感性认识的一种&lt;/code&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;code&gt;理性认识依赖于感性认识，感性认识有待于发展到理性认识，这就是辩证唯物论的认识论。&lt;/code&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;code&gt;认识从实践始，经过实践得到了理论的认识，还需再回到实践去。&lt;/code&gt;&lt;/em&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="中文推文" scheme="http://iiishop.github.io/categories/%E4%B8%AD%E6%96%87%E6%8E%A8%E6%96%87/"/>
+    
+    <category term="学习" scheme="http://iiishop.github.io/categories/%E4%B8%AD%E6%96%87%E6%8E%A8%E6%96%87/%E5%AD%A6%E4%B9%A0/"/>
+    
+    <category term="读后感" scheme="http://iiishop.github.io/categories/%E4%B8%AD%E6%96%87%E6%8E%A8%E6%96%87/%E5%AD%A6%E4%B9%A0/%E8%AF%BB%E5%90%8E%E6%84%9F/"/>
+    
+    <category term="毛泽东选集" scheme="http://iiishop.github.io/categories/%E4%B8%AD%E6%96%87%E6%8E%A8%E6%96%87/%E5%AD%A6%E4%B9%A0/%E8%AF%BB%E5%90%8E%E6%84%9F/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E9%80%89%E9%9B%86/"/>
+    
+    
+    <category term="毛泽东选集" scheme="http://iiishop.github.io/tags/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E9%80%89%E9%9B%86/"/>
+    
+    <category term="读后感" scheme="http://iiishop.github.io/tags/%E8%AF%BB%E5%90%8E%E6%84%9F/"/>
+    
+    <category term="实践论" scheme="http://iiishop.github.io/tags/%E5%AE%9E%E8%B7%B5%E8%AE%BA/"/>
+    
+  </entry>
+  
+  <entry>
     <title>EEE-104总结</title>
     <link href="http://iiishop.github.io/2023/05/23/EEE-104%E6%80%BB%E7%BB%93/"/>
     <id>http://iiishop.github.io/2023/05/23/EEE-104%E6%80%BB%E7%BB%93/</id>
@@ -346,15 +389,16 @@ distributions&lt;/h2&gt;&lt;/li&gt;
   
   <entry>
     <title>阶段性工作汇总</title>
-    <link href="http://iiishop.github.io/2023/04/25/%E9%98%B6%E6%AE%B5%E6%80%A7%E5%B7%A5%E4%BD%9C%E6%B1%87%E6%80%BB/"/>
-    <id>http://iiishop.github.io/2023/04/25/%E9%98%B6%E6%AE%B5%E6%80%A7%E5%B7%A5%E4%BD%9C%E6%B1%87%E6%80%BB/</id>
+    <link href="http://iiishop.github.io/2023/04/25/%E9%98%B6%E6%AE%B5%E6%B1%87%E6%80%BB/"/>
+    <id>http://iiishop.github.io/2023/04/25/%E9%98%B6%E6%AE%B5%E6%B1%87%E6%80%BB/</id>
     <published>2023-04-25T13:31:10.000Z</published>
-    <updated>2023-05-14T08:18:50.044Z</updated>
+    <updated>2023-06-18T11:40:57.375Z</updated>
     
-    <content type="html"><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="抱歉, 这个密码看着不太对, 请再试试." data-whm="抱歉, 这个文章不能被校验, 不过您还是能看看解密后的内容.">  <script id="hbeData" type="hbeData" data-hmacdigest="9dd203625a418c648acd8d1701e3f740d88f970da615014207ef5d66c49d2230">ebf621515920276094afaaae555be3f8a7bb1bb82379acc3d628552400dceef4d045a53ccde871e27922153998f17dd1da13bf74863e82a7a832b93eafec28937e2bc9f12581bd560cf3fff628b8eba791b5198eb5c8164d4f6e82e7060d2caf395078922a33fe89ad5383f1c5ac3fc6d031c4c678f23c8ba486a73005a6e8813c97f5c85d5e6b17400d2e20842b6db83e0b0d35c2e2f6882e1f2c14420520e5c8ec665998aa185eeb52d0a2281b7f00cb6a582d62936a1faa228346e3cd48387c301586972672c0b37ffe6c776d281b33add8e6ba4529f2c63f7593b718857c9eb0761fbaf4a00f0c5e29db45594f85b3a3196e48d49b400c80161486c8ff3b52b6502b4effa03b5a4331a58116c5d4bae770a5cbbdc113a78642c5bc94a9e5254e485b80cb4395b51343c2c98f5cd6d18afe3d14434145eab5c0869b06ee1a9c6ce7d8ef1d7895ba15de1b1433edd042ff0443bfa440c40636b52c1c11e815d9cf423122f912d1296400d6ee7af43fa9fae9f91e2c2c8f24815d7ad078e3794553fd2bb235dfc3b9b94b0d7bfc7ce230fca3146978ff6cfd275435646b173f7210f887e45a0a4d68e5f5b09e49e497dfaae0a550a6e0a96c5dc2a32f19ca93a6b82e1ffedcd75d77cbbefde59b660638422dbe515d4a1b670d3007f472c380ea28b8e5e4eaf4ab16c181fae4d59261e68c0b1a78fd32dacefcb514a64a65c859a1871b4ea10f30b5b8cbe9da8b8e8ce846dc3d78af8db51fb0809227374bab97bca45e0aafce4d2189cbce1799f61a489842f1056fea6964d13f12378c520e12d2a35f5464e9560dc626bcb049a73aaea0c9c7772832855f0392ead9fb56fb45251b642722416fdbaac79bb16d53fcff07fc14c71fc29bdcdda6e672b84acbffb1d0799fc06e93ff19216f59f2aa20edc18c154b74438ed0ee808f91e12019c0d660e1e8f00b329a4e969a77fa789a7854b8bf0271af1c8731516e3c274ad7593df918ec1f8b1a79ef9ffc3e25603d829a884caedbddcfbce7d3975799e851</script>  <div class="hbe hbe-content">    <div class="hbe hbe-input hbe-input-default">      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">        <span class="hbe hbe-input-label-content hbe-input-label-content-default">您好, 这里需要密码.</span>      </label>    </div>  </div></div><script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+    <content type="html"><![CDATA[<h1 id="引言">引言</h1><p>在当前阶段，游戏的整体框架已趋于成熟。鉴于客观条件造成的五月份工作开展困难，在此作一份汇总报告以进行阶段性成果总结。<br><span id="more"></span></p><h1 id="现已完成的">现已完成的</h1><ul><li><h2 id="策划">策划</h2><ol type="1"><li><h3 id="剧本最终版">剧本（最终版）</h3><em>2023 02 16</em></li><li><h3 id="武器框架">武器框架</h3><em>2023 02 17</em></li><li><h3 id="人设初版x">人设（初版x）</h3><em>2023 02 18</em></li><li><h3 id="道具框架">道具框架</h3><em>2023 02 25</em></li><li><h3 id="关卡设计规范">关卡设计规范</h3><em>2023 03 07</em></li><li><h3 id="demo关卡策划">Demo关卡策划</h3><em>2023 03 12</em></li><li><h3 id="demo文案">Demo文案</h3><em>2023 03 20</em></li><li><h3 id="引导关卡-必要元素需求">引导关卡-必要元素需求</h3><em>2023 03 22</em></li></ol></li><li><h2 id="美术">美术</h2><ol type="1"><li><h3 id="主角立绘">主角立绘</h3><em>2023 03 05</em></li><li><h3 id="主角行走像素动画">主角行走像素动画</h3><em>2023 03 11</em></li><li><h3 id="主角跳跃像素动画">主角跳跃像素动画</h3><em>2023 03 23</em></li><li><h3 id="主角待机像素动画">主角待机像素动画</h3><em>2023 03 25</em></li><li><h3 id="主角骨骼动画素材">主角骨骼动画素材</h3><em>2023 04 08</em></li><li><h3 id="主角待机骨骼动画">主角待机骨骼动画</h3><em>2023 04 09</em></li><li><h3 id="主角行走骨骼动画">主角行走骨骼动画</h3><em>2023 04 10</em></li><li><h3 id="病患1立绘">病患1立绘</h3><em>2023 04 28</em></li></ol></li><li><h2 id="程序">程序</h2><ul><li><strong>简易的目录如下</strong></li></ul><ol type="1"><li><h3 id="人物移动">人物移动</h3><p><em>2023 03 09前</em></p></li><li><h3 id="武器开火">武器开火</h3><p><em>2023 03 09前</em></p></li><li><h3 id="多种类武器统一">多种类武器统一</h3><p><em>2023 03 09前</em></p></li><li><h3 id="背包">背包</h3><p><em>2023 03 09</em></p></li><li><h3 id="时间停止效果">时间停止效果</h3><p><em>2023 03 09</em></p></li><li><h3 id="对象池">对象池</h3><p><em>2023 03 10</em></p></li><li><h3 id="冲刺">冲刺</h3><p><em>2023 03 10</em></p></li><li><h3 id="多种类子弹统一">多种类子弹统一</h3><p><em>2023 03 15</em></p></li><li><h3 id="敌人的引入">敌人的引入</h3><p><em>2023 03 16</em></p></li><li><h3 id="血条ui的显示及跟随效果">血条UI的显示及跟随效果</h3><p><em>2023 03 17</em></p></li><li><h3 id="大更新">大更新</h3><p><em>2023 03 26</em></p><ol type="1"><li><h4 id="场景更新">场景更新</h4></li><li><h4 id="角色动画更新">角色动画更新</h4></li><li><h4 id="状态条的添加">状态条的添加</h4></li><li><h4 id="碰撞图层的统一">碰撞图层的统一</h4></li></ol></li><li><h3 id="敌人受击与死亡效果及动画">敌人受击与死亡效果及动画</h3><p><em>2023 03 28</em></p></li><li><h3 id="对话框部分">对话框部分</h3><p><em>2023 03 30</em></p><ol type="1"><li><h4 id="对话框文字显示及切换">对话框文字显示及切换</h4></li><li><h4 id="立绘显示及切换">立绘显示及切换</h4></li><li><h4 id="对话框特殊功能">对话框特殊功能</h4></li></ol></li><li><h3 id="对象池优化及浮动伤害数值显示">对象池优化及浮动伤害数值显示</h3><p><em>2023 03 31</em></p></li><li><h3 id="时间停止状态下的简易物理引擎制作">时间停止状态下的简易物理引擎制作</h3><p><em>2023 03 31</em></p></li><li><h3 id="双穿溅血效果">双穿、溅血效果</h3><p><em>2023 03 31</em></p></li><li><h3 id="粒子光源">粒子光源</h3><p><em>2023 04 02</em></p></li><li><h3 id="hdrp渲染管线支持及适配">HDRP渲染管线支持及适配</h3><p><em>2023 04 03</em></p></li><li><h3 id="存档及设置保存">存档及设置保存</h3><p><em>2023 04 16</em></p></li><li><h3 id="开始菜单及设置菜单">开始菜单及设置菜单</h3><p><em>2023 04 20</em></p></li></ol></li></ul><h1 id="将来的现在想到的不代表全部">将来的（现在想到的，不代表全部）</h1><ul><li><h2 id="策划-1">策划</h2><ol type="1"><li><h3 id="普通敌对对象详细策划">普通敌对对象详细策划</h3><ol type="1"><li><h4 id="美术策划虽然我们没有细分先做分类">美术策划（虽然我们没有细分，先做分类）</h4><ol type="1"><li>样貌</li><li>待机动画</li><li>行走动画</li><li>跳跃动画</li><li>下落动画</li><li>攻击动画（希望以远程为主）</li><li>受击动画</li><li>死亡动画</li></ol></li><li><h4 id="行为模式策划">行为模式策划</h4><ol type="1"><li>寻路模式<ol type="1"><li>未发现玩家时的巡逻方式</li><li>发现玩家后到达攻击位置的行动方式</li></ol></li><li>攻击模式（如果拥有不止一种攻击方式时的选择策略）</li></ol></li></ol></li><li><h3 id="关卡陷阱设计">关卡陷阱设计</h3></li><li><h3 id="boss设计">BOSS设计</h3></li><li><h3 id="将剧本转化为剧情脚本">将剧本转化为剧情脚本</h3></li><li><h3 id="剧情关卡策划">剧情关卡策划</h3><ol type="1"><li><h4 id="美术策划">美术策划</h4><ol type="1"><li>关卡风格（每个剧情关卡需要拥有各自的风格）<ol type="1"><li>色系上的区分（关卡整体以某个颜色为主）</li><li>敌对对象样貌的区分（例如克系、机械系等区分）</li><li>关卡组成对象的区分（例如木地板、水泥地等区分）</li><li>空间构建的区分（例如空间狭小逼仄、空间开阔宽广）</li></ol></li><li>陷阱风格（主要是同种类陷阱在不同风格下的表现，例如地陷中的尖刺陷阱和激光陷阱是同一个陷阱的两种表现）</li></ol></li><li><h4 id="数值策划">数值策划</h4></li><li><h4 id="关卡布置">关卡布置</h4></li></ol></li><li><h3 id="大厅场景布置">大厅场景布置</h3></li><li><h3 id="ui设计">UI设计</h3><ol type="1"><li><h4 id="商店的ui设计">商店的UI设计</h4></li><li><h4 id="诊所的ui设计">诊所的UI设计</h4></li><li><h4 id="改造的ui设计">改造的UI设计</h4></li><li><h4 id="玩家界面ui设计">玩家界面UI设计</h4></li></ol></li></ol></li><li><h2 id="美术-1">美术</h2><ol type="1"><li><h3 id="根据策划需求绘制敌对对象及制作动画">根据策划需求绘制敌对对象及制作动画</h3></li><li><h3 id="根据策划需求绘制各场景草稿">根据策划需求绘制各场景草稿</h3></li><li><h3 id="为场景框架进行建模">为场景框架进行建模</h3></li><li><h3 id="绘制场景物件">绘制场景物件</h3></li><li><h3 id="绘制武器">绘制武器</h3></li><li><h3 id="绘制道具">绘制道具</h3></li><li><h3 id="为拥有对话需要的对象绘制立绘及表情切换">为拥有对话需要的对象绘制立绘及表情切换</h3></li><li><h3 id="ui绘制">UI绘制</h3></li></ol></li><li><h2 id="程序-1">程序</h2><ol type="1"><li><h3 id="普通敌对对象行为逻辑">普通敌对对象行为逻辑</h3></li><li><h3 id="boss行为逻辑">BOSS行为逻辑</h3></li><li><h3 id="陷阱功能制作">陷阱功能制作</h3></li><li><h3 id="大厅制作">大厅制作</h3><ol type="1"><li>诊所<ol type="1"><li>选关</li><li>事件</li><li>主角配置</li></ol></li><li>商店</li><li>武器改造（不知道还要不要）</li></ol></li><li><h3 id="从大厅到关卡再到结束返回到循环">从大厅到关卡再到结束返回到循环</h3></li><li><h3 id="随机关卡生成">随机关卡生成</h3></li><li><h3 id="道具功能实现">道具功能实现</h3></li><li><h3 id="更多的武器功能">更多的武器功能</h3></li></ol></li><li><h2 id="音效">音效</h2><ol type="1"><li><h3 id="按钮音效">按钮音效</h3></li><li><h3 id="不同种类武器开火音效">不同种类武器开火音效</h3></li><li><h3 id="不同风格场景背景音乐">不同风格场景背景音乐</h3></li><li><h3 id="人物移动等行动音效">人物移动等行动音效</h3></li><li><h3 id="敌对对象行动音效">敌对对象行动音效</h3></li></ol></li><li><h2 id="其他">其他</h2></li></ul>]]></content>
     
     
-    <summary type="html">有东西被加密了, 请输入密码查看.</summary>
+    <summary type="html">&lt;h1 id=&quot;引言&quot;&gt;引言&lt;/h1&gt;
+&lt;p&gt;在当前阶段，游戏的整体框架已趋于成熟。鉴于客观条件造成的五月份工作开展困难，在此作一份汇总报告以进行阶段性成果总结。&lt;br&gt;&lt;/p&gt;</summary>
     
     
     
@@ -368,8 +412,6 @@ distributions&lt;/h2&gt;&lt;/li&gt;
     <category term="DearDeer" scheme="http://iiishop.github.io/tags/DearDeer/"/>
     
     <category term="唤心" scheme="http://iiishop.github.io/tags/%E5%94%A4%E5%BF%83/"/>
-    
-    <category term="暂未公开" scheme="http://iiishop.github.io/tags/%E6%9A%82%E6%9C%AA%E5%85%AC%E5%BC%80/"/>
     
   </entry>
   
@@ -556,11 +598,11 @@ and the &lt;em&gt;Time-complexity&lt;/em&gt; is &lt;strong&gt;&lt;em&gt;O(nm)&lt
     
     <category term="笔记" scheme="http://iiishop.github.io/tags/%E7%AC%94%E8%AE%B0/"/>
     
-    <category term="游戏设计" scheme="http://iiishop.github.io/tags/%E6%B8%B8%E6%88%8F%E8%AE%BE%E8%AE%A1/"/>
-    
     <category term="游戏设计艺术" scheme="http://iiishop.github.io/tags/%E6%B8%B8%E6%88%8F%E8%AE%BE%E8%AE%A1%E8%89%BA%E6%9C%AF/"/>
     
     <category term="团队合作" scheme="http://iiishop.github.io/tags/%E5%9B%A2%E9%98%9F%E5%90%88%E4%BD%9C/"/>
+    
+    <category term="游戏设计" scheme="http://iiishop.github.io/tags/%E6%B8%B8%E6%88%8F%E8%AE%BE%E8%AE%A1/"/>
     
   </entry>
   
@@ -600,35 +642,6 @@ B---d((界面))---C</summary>
     
     
     <category term="游戏设计" scheme="http://iiishop.github.io/tags/%E6%B8%B8%E6%88%8F%E8%AE%BE%E8%AE%A1/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>对新项目的一些碎碎念</title>
-    <link href="http://iiishop.github.io/2022/10/05/%E5%AF%B9%E6%96%B0%E9%A1%B9%E7%9B%AE%E7%9A%84%E4%B8%80%E4%BA%9B%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
-    <id>http://iiishop.github.io/2022/10/05/%E5%AF%B9%E6%96%B0%E9%A1%B9%E7%9B%AE%E7%9A%84%E4%B8%80%E4%BA%9B%E7%A2%8E%E7%A2%8E%E5%BF%B5/</id>
-    <published>2022-10-04T21:52:20.000Z</published>
-    <updated>2023-04-17T01:10:24.831Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="立项动机">立项动机</h1><p>因环境的变化，感觉周遭感知到的压力越来越大。记忆中少年时总是恬静而美好，但在如今，却又难以捉摸。</p><p>曾经带来回忆的地方大多以及不存在了。那些实体的药引消失后，能带来治愈的，也只剩下情感了。</p><span id="more"></span><p>曾无数次在梦中见到那些恍惚，如午后的阳光般迷迷朦朦，温暖，令人心安。此处没有令人心烦的催促，也没有令人压抑的人群，留下的只有憧憬和希望。但梦终究是梦，梦醒后，尽管尽力去追寻，却也再无法沉浸入那种感觉。</p><p>音乐是情感很好的载体，感受旋律时，初见的场面和美好会历历浮现在眼前，作为引子，将人拉入回忆。优秀的作曲家能将自己的情感带入音乐，令听者跨越时代而产生共情，或许这也是我钟情于老歌的缘由。</p><p>但音乐带来的即视感终究会是消散的，反复聆听的华丽也会落入尘俗，因而我想要的是能够持久留存的情感。</p><p>那么游戏就作为一个更完美的载体出现了。</p><p>游戏是一种集大成者的媒介，他跨越融合了声光影，且能让观者真实代入角色，达到共情的目的。因此，注意力便被转入此处，或许用一款游戏来重现那份美好，也是一种不错的选择。</p><h1 id="选择此题材的原因">选择此题材的原因</h1><p>这个想法的出现，也已经有三四年了。期间，也曾经有过一些尝试，但总觉得不妥而放弃。</p><p>目前这种形式也算是对游戏性和制作难度上的妥协。原先有过还原一整座2010时期的城市，供自由探索回味的想法，但是这种想法的实现难度太大，而且也不太符合现在的游戏市场。故放弃了开放，转型为线性流程。</p><p>单车可以说是慢节奏生活的一种代表。在游戏中，它是一条线索，贯穿着主人公的整个回忆，也是主人公的一种情感。在游戏中，它是一种载体，能够让玩家回味那个年代的感觉。</p><h1 id="项目的形式">项目的形式</h1><p>整体时常把握在一小时左右，将游戏活动范围缩小到四五个场景中，在游玩过程中，随着回忆的深入，能感受到场景随着时代在变化。</p><p>整个游戏的主题围绕着主人公的一种蜕变，通过这种回忆和体验唤醒了主人公内心深处沉睡的情感，从而让主人公重新找到自己的方向。</p><h1 id="一些建议">一些建议</h1><ol type="1"><li><p>在设计之初先确定故事发生的城市的规划，创作一张城市的俯瞰图，并且在关键的时间点做出城市内容的变化，方便后面设计的代入。</p></li><li><p>在设计游戏的时候，要考虑到玩家的游戏习惯，比如玩家喜欢在游戏中自由探索，那么就要在游戏中留出一些小范围的空间，让玩家自由探索，让玩家亲身体验游戏想传达的氛围，而不是一直被游戏的线索牵着走。</p></li></ol><h1 id="后记">后记</h1><p>这作也算是对我精神上的一种释放，希望能一切尽善尽美，顺利坐成。另外或许我的表达仍然不是那么得清晰，这种情感上的描述也是走向游戏制作人的一大难点，若感觉不大能理解意思，可以继续与我深入交流。</p><p>wish you all the best!</p>]]></content>
-    
-    
-    <summary type="html">&lt;h1 id=&quot;立项动机&quot;&gt;立项动机&lt;/h1&gt;
-&lt;p&gt;因环境的变化，感觉周遭感知到的压力越来越大。记忆中少年时总是恬静而美好，但在如今，却又难以捉摸。&lt;/p&gt;
-&lt;p&gt;曾经带来回忆的地方大多以及不存在了。那些实体的药引消失后，能带来治愈的，也只剩下情感了。&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="中文推文" scheme="http://iiishop.github.io/categories/%E4%B8%AD%E6%96%87%E6%8E%A8%E6%96%87/"/>
-    
-    <category term="游戏企划" scheme="http://iiishop.github.io/categories/%E4%B8%AD%E6%96%87%E6%8E%A8%E6%96%87/%E6%B8%B8%E6%88%8F%E4%BC%81%E5%88%92/"/>
-    
-    <category term="单车" scheme="http://iiishop.github.io/categories/%E4%B8%AD%E6%96%87%E6%8E%A8%E6%96%87/%E6%B8%B8%E6%88%8F%E4%BC%81%E5%88%92/%E5%8D%95%E8%BD%A6/"/>
-    
-    
-    <category term="DearDeer" scheme="http://iiishop.github.io/tags/DearDeer/"/>
-    
-    <category term="单车" scheme="http://iiishop.github.io/tags/%E5%8D%95%E8%BD%A6/"/>
     
   </entry>
   
