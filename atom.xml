@@ -48,7 +48,7 @@
     <link href="http://iiishop.github.io/2023/12/13/Signal/"/>
     <id>http://iiishop.github.io/2023/12/13/Signal/</id>
     <published>2023-12-12T17:34:49.000Z</published>
-    <updated>2023-12-12T17:39:43.113Z</updated>
+    <updated>2024-01-31T17:00:34.890Z</updated>
     
     <content type="html"><![CDATA[<h1 id="introduce">Introduce</h1><p>This design pattern is designed for sending signals betweenobjects.<br><span id="more"></span></p><pre class="line-numbers language-Cs" data-language="Cs"><code class="language-Cs">public class Signal{    /***     * This class is used to send signals between objects.     * 使用方法：     * 1.在需要发送信号的对象中，创建一个Signal对象，例如： public static Signal signal = new Signal();     * 2.在需要接收信号的对象中，调用Signal的AddListener方法，例如： signal.AddListener(OnSignal);     * 3.在需要接收信号的对象中，实现OnSignal方法，例如： void OnSignal(params object[] args) { }     * 4.在需要发送信号的对象中，调用Signal的Call方法，例如： signal.Call(args);     */    public delegate void SignalHandler(params object[] args);    public event SignalHandler OnSignal;    private readonly object lockObj = new object();    public void Call(params object[] args)    {        //OnSignal?.Invoke(info);        SignalHandler handler;        lock (lockObj)        {            handler = OnSignal;        }        if (handler != null)        {            foreach (var singleCast in handler.GetInvocationList())            {                try                {                    ((SignalHandler)singleCast)(args)                }                catch (Exception ex)                {                    Console.Writeline(ex)                }            }        }    }    public void AddListener(SignalHandler handler)    {        lock (lockObj)        {            //保证唯一性            OnSignal -= handler;            OnSignal += handler;        }    }    public void RemoveListener(SignalHandler handler)    {        lock (lockObj)        {            OnSignal -= handler;        }    }}<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre>]]></content>
     
@@ -141,9 +141,9 @@ objects.&lt;br&gt;&lt;/p&gt;</summary>
     
     <category term="笔记" scheme="http://iiishop.github.io/tags/%E7%AC%94%E8%AE%B0/"/>
     
-    <category term="暂未公开" scheme="http://iiishop.github.io/tags/%E6%9A%82%E6%9C%AA%E5%85%AC%E5%BC%80/"/>
-    
     <category term="读后感" scheme="http://iiishop.github.io/tags/%E8%AF%BB%E5%90%8E%E6%84%9F/"/>
+    
+    <category term="暂未公开" scheme="http://iiishop.github.io/tags/%E6%9A%82%E6%9C%AA%E5%85%AC%E5%BC%80/"/>
     
   </entry>
   
@@ -256,9 +256,9 @@ programming GUI. It will </summary>
     <category term="感想" scheme="http://iiishop.github.io/categories/%E4%B8%AD%E6%96%87%E6%8E%A8%E6%96%87/%E6%84%9F%E6%83%B3/"/>
     
     
-    <category term="读后感" scheme="http://iiishop.github.io/tags/%E8%AF%BB%E5%90%8E%E6%84%9F/"/>
-    
     <category term="毛泽东选集" scheme="http://iiishop.github.io/tags/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E9%80%89%E9%9B%86/"/>
+    
+    <category term="读后感" scheme="http://iiishop.github.io/tags/%E8%AF%BB%E5%90%8E%E6%84%9F/"/>
     
   </entry>
   
@@ -285,11 +285,11 @@ programming GUI. It will </summary>
     <category term="毛泽东选集" scheme="http://iiishop.github.io/categories/%E4%B8%AD%E6%96%87%E6%8E%A8%E6%96%87/%E5%AD%A6%E4%B9%A0/%E8%AF%BB%E5%90%8E%E6%84%9F/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E9%80%89%E9%9B%86/"/>
     
     
-    <category term="暂未公开" scheme="http://iiishop.github.io/tags/%E6%9A%82%E6%9C%AA%E5%85%AC%E5%BC%80/"/>
+    <category term="毛泽东选集" scheme="http://iiishop.github.io/tags/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E9%80%89%E9%9B%86/"/>
     
     <category term="读后感" scheme="http://iiishop.github.io/tags/%E8%AF%BB%E5%90%8E%E6%84%9F/"/>
     
-    <category term="毛泽东选集" scheme="http://iiishop.github.io/tags/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E9%80%89%E9%9B%86/"/>
+    <category term="暂未公开" scheme="http://iiishop.github.io/tags/%E6%9A%82%E6%9C%AA%E5%85%AC%E5%BC%80/"/>
     
     <category term="实践论" scheme="http://iiishop.github.io/tags/%E5%AE%9E%E8%B7%B5%E8%AE%BA/"/>
     
@@ -472,9 +472,9 @@ distributions&lt;/h2&gt;&lt;/li&gt;
     <category term="毛泽东选集" scheme="http://iiishop.github.io/categories/%E4%B8%AD%E6%96%87%E6%8E%A8%E6%96%87/%E5%AD%A6%E4%B9%A0/%E5%8F%82%E8%80%83%E4%B9%A6/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E9%80%89%E9%9B%86/"/>
     
     
-    <category term="毛泽东选集" scheme="http://iiishop.github.io/tags/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E9%80%89%E9%9B%86/"/>
-    
     <category term="参考书" scheme="http://iiishop.github.io/tags/%E5%8F%82%E8%80%83%E4%B9%A6/"/>
+    
+    <category term="毛泽东选集" scheme="http://iiishop.github.io/tags/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E9%80%89%E9%9B%86/"/>
     
   </entry>
   
@@ -532,9 +532,9 @@ distributions&lt;/h2&gt;&lt;/li&gt;
     <category term="毛泽东选集" scheme="http://iiishop.github.io/categories/%E4%B8%AD%E6%96%87%E6%8E%A8%E6%96%87/%E5%AD%A6%E4%B9%A0/%E5%8F%82%E8%80%83%E4%B9%A6/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E9%80%89%E9%9B%86/"/>
     
     
-    <category term="毛泽东选集" scheme="http://iiishop.github.io/tags/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E9%80%89%E9%9B%86/"/>
-    
     <category term="参考书" scheme="http://iiishop.github.io/tags/%E5%8F%82%E8%80%83%E4%B9%A6/"/>
+    
+    <category term="毛泽东选集" scheme="http://iiishop.github.io/tags/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E9%80%89%E9%9B%86/"/>
     
   </entry>
   
