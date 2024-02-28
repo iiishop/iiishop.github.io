@@ -103,7 +103,7 @@ theme: next
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/iiishop/iiishop.github.io.git
+  repo: https://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@github.com/iiishop/iiishop.github.io.git
   branch: main
 
 uglify:
