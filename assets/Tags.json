@@ -2,13 +2,20 @@
   "hello world": [
     "/Posts/Markdowns/Helloworld.md"
   ],
+  "笔记": [
+    "/Posts/Markdowns/赏《Demons Roots》后感.md",
+    "/Posts/XJTLU/EEE-104总结.md"
+  ],
+  "读后感": [
+    "/Posts/Markdowns/赏《Demons Roots》后感.md"
+  ],
+  "暂未公开": [
+    "/Posts/Markdowns/赏《Demons Roots》后感.md"
+  ],
   "Algorithm": [
     "/Posts/Code/KMP_algorithm.md"
   ],
   "XJTLU": [
-    "/Posts/XJTLU/EEE-104总结.md"
-  ],
-  "笔记": [
     "/Posts/XJTLU/EEE-104总结.md"
   ],
   "数字电路": [
