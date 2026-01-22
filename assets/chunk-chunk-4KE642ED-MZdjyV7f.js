@@ -1,0 +1,1 @@
+import{ar as l}from"./chunk-MarkdownPanel-DF5qmeTm.js";function s(t,c){var a,o,r;t.accDescr&&((a=c.setAccDescription)==null||a.call(c,t.accDescr)),t.accTitle&&((o=c.setAccTitle)==null||o.call(c,t.accTitle)),t.title&&((r=c.setDiagramTitle)==null||r.call(c,t.title))}l(s,"populateCommonDb");export{s as c};
