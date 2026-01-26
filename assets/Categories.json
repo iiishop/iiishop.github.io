@@ -22,16 +22,6 @@
           }
         }
       },
-      "感想": {
-        "files": [
-          "/Posts/Markdowns/分工合作.md",
-          "/Posts/Markdowns/对文艺创作有感.md",
-          "/Posts/Markdowns/理想主义的花终将盛开在浪漫主义的土壤里.md",
-          "/Posts/Markdowns/赏《Demons Roots》后感.md",
-          "/Posts/Markdowns/逸剑风云决测评.md"
-        ],
-        "childCategories": {}
-      },
       "学习": {
         "files": [],
         "childCategories": {
@@ -56,17 +46,6 @@
             ],
             "childCategories": {}
           },
-          "读后感": {
-            "files": [],
-            "childCategories": {
-              "毛泽东选集": {
-                "files": [
-                  "/Posts/Markdowns/读实践论有感.md"
-                ],
-                "childCategories": {}
-              }
-            }
-          },
           "数字电路": {
             "files": [
               "/Posts/XJTLU/EEE-104总结.md"
@@ -81,8 +60,29 @@
               "/Posts/XJTLU/MTH-102复习4.md"
             ],
             "childCategories": {}
+          },
+          "读后感": {
+            "files": [],
+            "childCategories": {
+              "毛泽东选集": {
+                "files": [
+                  "/Posts/读后感/读实践论有感.md"
+                ],
+                "childCategories": {}
+              }
+            }
           }
         }
+      },
+      "感想": {
+        "files": [
+          "/Posts/Markdowns/理想主义的花终将盛开在浪漫主义的土壤里.md",
+          "/Posts/读后感/分工合作.md",
+          "/Posts/读后感/对文艺创作有感.md",
+          "/Posts/读后感/赏《Demons Roots》后感.md",
+          "/Posts/读后感/逸剑风云决测评.md"
+        ],
+        "childCategories": {}
       }
     }
   },
@@ -91,12 +91,6 @@
       "/Posts/Markdowns/hello-world.md"
     ],
     "childCategories": {
-      "Design Pattern": {
-        "files": [
-          "/Posts/Markdowns/Signal.md"
-        ],
-        "childCategories": {}
-      },
       "Computer Graphics": {
         "files": [],
         "childCategories": {
@@ -111,6 +105,12 @@
       "Algorithm": {
         "files": [
           "/Posts/Code/KMP_algorithm.md"
+        ],
+        "childCategories": {}
+      },
+      "Design Pattern": {
+        "files": [
+          "/Posts/Code/Signal.md"
         ],
         "childCategories": {}
       }
