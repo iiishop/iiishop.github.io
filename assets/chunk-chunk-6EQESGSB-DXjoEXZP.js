@@ -1,1 +1,0 @@
-import{ar as r,ax as e}from"./chunk-MarkdownPanel-DF5qmeTm.js";var n=r((a,o)=>{let t;return o==="sandbox"&&(t=e("#i"+a)),(o==="sandbox"?e(t.nodes()[0].contentDocument.body):e("body")).select(`[id="${a}"]`)},"getDiagramElement");export{n as m};

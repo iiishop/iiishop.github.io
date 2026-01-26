@@ -22,18 +22,19 @@
           }
         }
       },
+      "感想": {
+        "files": [
+          "/Posts/Markdowns/分工合作.md",
+          "/Posts/Markdowns/对文艺创作有感.md",
+          "/Posts/Markdowns/理想主义的花终将盛开在浪漫主义的土壤里.md",
+          "/Posts/Markdowns/赏《Demons Roots》后感.md",
+          "/Posts/Markdowns/逸剑风云决测评.md"
+        ],
+        "childCategories": {}
+      },
       "学习": {
         "files": [],
         "childCategories": {
-          "概率论": {
-            "files": [
-              "/Posts/Markdowns/MTH-102复习1.md",
-              "/Posts/Markdowns/MTH-102复习2.md",
-              "/Posts/Markdowns/MTH-102复习3.md",
-              "/Posts/Markdowns/MTH-102复习4.md"
-            ],
-            "childCategories": {}
-          },
           "参考书": {
             "files": [
               "/Posts/Markdowns/提问的智慧.md"
@@ -71,18 +72,17 @@
               "/Posts/XJTLU/EEE-104总结.md"
             ],
             "childCategories": {}
+          },
+          "概率论": {
+            "files": [
+              "/Posts/XJTLU/MTH-102复习1.md",
+              "/Posts/XJTLU/MTH-102复习2.md",
+              "/Posts/XJTLU/MTH-102复习3.md",
+              "/Posts/XJTLU/MTH-102复习4.md"
+            ],
+            "childCategories": {}
           }
         }
-      },
-      "感想": {
-        "files": [
-          "/Posts/Markdowns/分工合作.md",
-          "/Posts/Markdowns/对文艺创作有感.md",
-          "/Posts/Markdowns/理想主义的花终将盛开在浪漫主义的土壤里.md",
-          "/Posts/Markdowns/赏《Demons Roots》后感.md",
-          "/Posts/Markdowns/逸剑风云决测评.md"
-        ],
-        "childCategories": {}
       }
     }
   },
