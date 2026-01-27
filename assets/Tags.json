@@ -1,19 +1,4 @@
 {
-  "游戏企划": [
-    "/Posts/Markdowns/DearDeer新企划.md"
-  ],
-  "DearDeer": [
-    "/Posts/Markdowns/DearDeer新企划.md",
-    "/Posts/Markdowns/关于主线的想法.md",
-    "/Posts/Markdowns/对新项目的一些碎碎念.md",
-    "/Posts/Markdowns/心灵迷宫-框架.md",
-    "/Posts/Markdowns/阶段汇总.md"
-  ],
-  "单车": [
-    "/Posts/Markdowns/DearDeer新企划.md",
-    "/Posts/Markdowns/关于主线的想法.md",
-    "/Posts/Markdowns/对新项目的一些碎碎念.md"
-  ],
   "Helloworld": [
     "/Posts/Markdowns/hello-world.md"
   ],
@@ -25,8 +10,6 @@
   ],
   "笔记": [
     "/Posts/Markdowns/The basic frame of OpenGL.md",
-    "/Posts/Markdowns/游戏设计中的团队合作.md",
-    "/Posts/Markdowns/理想主义的花终将盛开在浪漫主义的土壤里.md",
     "/Posts/Code/Signal.md",
     "/Posts/XJTLU/CPT-103复习1.md",
     "/Posts/XJTLU/CPT-103复习2.md",
@@ -36,6 +19,8 @@
     "/Posts/XJTLU/MTH-102复习2.md",
     "/Posts/XJTLU/MTH-102复习3.md",
     "/Posts/XJTLU/MTH-102复习4.md",
+    "/Posts/游戏设计/游戏设计中的团队合作.md",
+    "/Posts/碎碎念/理想主义的花终将盛开在浪漫主义的土壤里.md",
     "/Posts/读后感/分工合作.md",
     "/Posts/读后感/赏《Demons Roots》后感.md",
     "/Posts/读后感/逸剑风云决测评.md"
@@ -46,40 +31,16 @@
   "OpenGL": [
     "/Posts/Markdowns/The basic frame of OpenGL.md"
   ],
-  "参考书": [
-    "/Posts/Markdowns/反对自由主义.md",
-    "/Posts/Markdowns/提问的智慧.md",
-    "/Posts/Markdowns/纪念白求恩.md"
-  ],
-  "毛泽东选集": [
-    "/Posts/Markdowns/反对自由主义.md",
-    "/Posts/Markdowns/纪念白求恩.md",
-    "/Posts/读后感/对文艺创作有感.md",
-    "/Posts/读后感/读实践论有感.md"
+  "DearDeer": [
+    "/Posts/Markdowns/阶段汇总.md",
+    "/Posts/游戏设计/DearDeer新企划.md",
+    "/Posts/游戏设计/关于主线的想法.md",
+    "/Posts/游戏设计/心灵迷宫-框架.md",
+    "/Posts/碎碎念/对新项目的一些碎碎念.md"
   ],
   "唤心": [
-    "/Posts/Markdowns/心灵迷宫-框架.md",
-    "/Posts/Markdowns/阶段汇总.md"
-  ],
-  "框架": [
-    "/Posts/Markdowns/心灵迷宫-框架.md"
-  ],
-  "游戏设计艺术": [
-    "/Posts/Markdowns/游戏设计中的团队合作.md"
-  ],
-  "团队合作": [
-    "/Posts/Markdowns/游戏设计中的团队合作.md",
-    "/Posts/读后感/分工合作.md"
-  ],
-  "游戏设计": [
-    "/Posts/Markdowns/游戏设计中的团队合作.md",
-    "/Posts/Markdowns/游戏设计元素.md"
-  ],
-  "随笔": [
-    "/Posts/Markdowns/理想主义的花终将盛开在浪漫主义的土壤里.md"
-  ],
-  "记录": [
-    "/Posts/Markdowns/理想主义的花终将盛开在浪漫主义的土壤里.md"
+    "/Posts/Markdowns/阶段汇总.md",
+    "/Posts/游戏设计/心灵迷宫-框架.md"
   ],
   "Algorithm": [
     "/Posts/Code/KMP_algorithm.md"
@@ -116,6 +77,45 @@
     "/Posts/XJTLU/MTH-102复习2.md",
     "/Posts/XJTLU/MTH-102复习3.md",
     "/Posts/XJTLU/MTH-102复习4.md"
+  ],
+  "参考书": [
+    "/Posts/参考书/反对自由主义.md",
+    "/Posts/参考书/提问的智慧.md",
+    "/Posts/参考书/纪念白求恩.md"
+  ],
+  "毛泽东选集": [
+    "/Posts/参考书/反对自由主义.md",
+    "/Posts/参考书/纪念白求恩.md",
+    "/Posts/读后感/对文艺创作有感.md",
+    "/Posts/读后感/读实践论有感.md"
+  ],
+  "游戏企划": [
+    "/Posts/游戏设计/DearDeer新企划.md"
+  ],
+  "单车": [
+    "/Posts/游戏设计/DearDeer新企划.md",
+    "/Posts/游戏设计/关于主线的想法.md",
+    "/Posts/碎碎念/对新项目的一些碎碎念.md"
+  ],
+  "框架": [
+    "/Posts/游戏设计/心灵迷宫-框架.md"
+  ],
+  "游戏设计艺术": [
+    "/Posts/游戏设计/游戏设计中的团队合作.md"
+  ],
+  "团队合作": [
+    "/Posts/游戏设计/游戏设计中的团队合作.md",
+    "/Posts/读后感/分工合作.md"
+  ],
+  "游戏设计": [
+    "/Posts/游戏设计/游戏设计中的团队合作.md",
+    "/Posts/游戏设计/游戏设计元素.md"
+  ],
+  "随笔": [
+    "/Posts/碎碎念/理想主义的花终将盛开在浪漫主义的土壤里.md"
+  ],
+  "记录": [
+    "/Posts/碎碎念/理想主义的花终将盛开在浪漫主义的土壤里.md"
   ],
   "暂未公开": [
     "/Posts/读后感/分工合作.md",

@@ -1,91 +1,4 @@
 {
-  "中文推文": {
-    "files": [],
-    "childCategories": {
-      "游戏企划": {
-        "files": [],
-        "childCategories": {
-          "单车": {
-            "files": [
-              "/Posts/Markdowns/DearDeer新企划.md",
-              "/Posts/Markdowns/关于主线的想法.md",
-              "/Posts/Markdowns/对新项目的一些碎碎念.md"
-            ],
-            "childCategories": {}
-          },
-          "唤心": {
-            "files": [
-              "/Posts/Markdowns/心灵迷宫-框架.md",
-              "/Posts/Markdowns/阶段汇总.md"
-            ],
-            "childCategories": {}
-          }
-        }
-      },
-      "学习": {
-        "files": [],
-        "childCategories": {
-          "参考书": {
-            "files": [
-              "/Posts/Markdowns/提问的智慧.md"
-            ],
-            "childCategories": {
-              "毛泽东选集": {
-                "files": [
-                  "/Posts/Markdowns/反对自由主义.md",
-                  "/Posts/Markdowns/纪念白求恩.md"
-                ],
-                "childCategories": {}
-              }
-            }
-          },
-          "游戏设计": {
-            "files": [
-              "/Posts/Markdowns/游戏设计中的团队合作.md",
-              "/Posts/Markdowns/游戏设计元素.md"
-            ],
-            "childCategories": {}
-          },
-          "数字电路": {
-            "files": [
-              "/Posts/XJTLU/EEE-104总结.md"
-            ],
-            "childCategories": {}
-          },
-          "概率论": {
-            "files": [
-              "/Posts/XJTLU/MTH-102复习1.md",
-              "/Posts/XJTLU/MTH-102复习2.md",
-              "/Posts/XJTLU/MTH-102复习3.md",
-              "/Posts/XJTLU/MTH-102复习4.md"
-            ],
-            "childCategories": {}
-          },
-          "读后感": {
-            "files": [],
-            "childCategories": {
-              "毛泽东选集": {
-                "files": [
-                  "/Posts/读后感/读实践论有感.md"
-                ],
-                "childCategories": {}
-              }
-            }
-          }
-        }
-      },
-      "感想": {
-        "files": [
-          "/Posts/Markdowns/理想主义的花终将盛开在浪漫主义的土壤里.md",
-          "/Posts/读后感/分工合作.md",
-          "/Posts/读后感/对文艺创作有感.md",
-          "/Posts/读后感/赏《Demons Roots》后感.md",
-          "/Posts/读后感/逸剑风云决测评.md"
-        ],
-        "childCategories": {}
-      }
-    }
-  },
   "EnglishBlog": {
     "files": [
       "/Posts/Markdowns/hello-world.md"
@@ -111,6 +24,93 @@
       "Design Pattern": {
         "files": [
           "/Posts/Code/Signal.md"
+        ],
+        "childCategories": {}
+      }
+    }
+  },
+  "中文推文": {
+    "files": [],
+    "childCategories": {
+      "游戏企划": {
+        "files": [],
+        "childCategories": {
+          "唤心": {
+            "files": [
+              "/Posts/Markdowns/阶段汇总.md",
+              "/Posts/游戏设计/心灵迷宫-框架.md"
+            ],
+            "childCategories": {}
+          },
+          "单车": {
+            "files": [
+              "/Posts/游戏设计/DearDeer新企划.md",
+              "/Posts/游戏设计/关于主线的想法.md",
+              "/Posts/碎碎念/对新项目的一些碎碎念.md"
+            ],
+            "childCategories": {}
+          }
+        }
+      },
+      "学习": {
+        "files": [],
+        "childCategories": {
+          "数字电路": {
+            "files": [
+              "/Posts/XJTLU/EEE-104总结.md"
+            ],
+            "childCategories": {}
+          },
+          "概率论": {
+            "files": [
+              "/Posts/XJTLU/MTH-102复习1.md",
+              "/Posts/XJTLU/MTH-102复习2.md",
+              "/Posts/XJTLU/MTH-102复习3.md",
+              "/Posts/XJTLU/MTH-102复习4.md"
+            ],
+            "childCategories": {}
+          },
+          "参考书": {
+            "files": [
+              "/Posts/参考书/提问的智慧.md"
+            ],
+            "childCategories": {
+              "毛泽东选集": {
+                "files": [
+                  "/Posts/参考书/反对自由主义.md",
+                  "/Posts/参考书/纪念白求恩.md"
+                ],
+                "childCategories": {}
+              }
+            }
+          },
+          "游戏设计": {
+            "files": [
+              "/Posts/游戏设计/游戏设计中的团队合作.md",
+              "/Posts/游戏设计/游戏设计元素.md"
+            ],
+            "childCategories": {}
+          },
+          "读后感": {
+            "files": [],
+            "childCategories": {
+              "毛泽东选集": {
+                "files": [
+                  "/Posts/读后感/读实践论有感.md"
+                ],
+                "childCategories": {}
+              }
+            }
+          }
+        }
+      },
+      "感想": {
+        "files": [
+          "/Posts/碎碎念/理想主义的花终将盛开在浪漫主义的土壤里.md",
+          "/Posts/读后感/分工合作.md",
+          "/Posts/读后感/对文艺创作有感.md",
+          "/Posts/读后感/赏《Demons Roots》后感.md",
+          "/Posts/读后感/逸剑风云决测评.md"
         ],
         "childCategories": {}
       }
