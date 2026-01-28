@@ -36,7 +36,8 @@
         "id": 8,
         "path": "/Posts/Code/Signal.md"
       }
-    ]
+    ],
+    "image": "/Posts/Code/image.png"
   },
   "XJTLU": {
     "date": "2026-01-22",
@@ -99,7 +100,8 @@
         "id": 21,
         "path": "/Posts/参考书/预习材料.md"
       }
-    ]
+    ],
+    "image": "/Posts/参考书/image.png"
   },
   "游戏设计": {
     "date": "2026-01-27",
@@ -128,7 +130,8 @@
         "id": 27,
         "path": "/Posts/游戏设计/游戏设计元素.md"
       }
-    ]
+    ],
+    "image": "/Posts/游戏设计/image.png"
   },
   "碎碎念": {
     "date": "2026-01-27",
@@ -141,7 +144,8 @@
         "id": 29,
         "path": "/Posts/碎碎念/理想主义的花终将盛开在浪漫主义的土壤里.md"
       }
-    ]
+    ],
+    "image": "/Posts/碎碎念/image.png"
   },
   "读后感": {
     "date": "2026-01-26",

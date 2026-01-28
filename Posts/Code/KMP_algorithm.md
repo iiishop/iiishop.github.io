@@ -7,7 +7,7 @@ categories:
  - EnglishBlog
  - Algorithm
 pre: KMP is a String-matching algorithm.
-img: 
+img: 3.png
 ---
 
 ---
