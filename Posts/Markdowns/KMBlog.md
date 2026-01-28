@@ -185,10 +185,11 @@ KMblog 支持在 Markdown 代码块中直接嵌入 Vue 组件，让你的文章�
 
 5. **小红书笔记** - 嵌入小红书内容
    ```xiaohongshu
-   https://www.xiaohongshu.com/explore/xxxxx
+   https://www.xiaohongshu.com/explore/69765621000000000e00c91e?xsec_token=ABBVEPyq3-d0p0PfE4RQMnqGBt-kySU6I6gnEG7-RhRV8=&xsec_source=pc_feed
    ```
 
 6. **Mermaid 图表** - 流程图、时序图、甘特图等
+
    ```mermaid
    graph LR
        A[开始] --> B[处理]
@@ -344,7 +345,7 @@ InfoListUp: [
 
 1. 在 `src/components/MarkdownPanelComps/` 创建 Block 组件：
 
-```vue
+```html
 <!-- YourCustomBlock.vue -->
 <template>
   <div class="your-custom-block">
