@@ -26,3 +26,6 @@ https://github.com/iiishop/KMblog
 ```xiaohongshu-note
 https://www.xiaohongshu.com/explore/69765621000000000e00c91e?xsec_token=ABBVEPyq3-d0p0PfE4RQMnqGBt-kySU6I6gnEG7-RhRV8=&xsec_source=pc_feed
 ```
+```xiaoheihe
+https://www.xiaoheihe.cn/app/bbs/link/174495898?htk=b6334e48572c3ab65522752d64b18240
+```

@@ -31,6 +31,12 @@
   "OpenGL": [
     "/Posts/Markdowns/The basic frame of OpenGL.md"
   ],
+  "测试": [
+    "/Posts/Markdowns/xiaoheihe-test.md"
+  ],
+  "小黑盒": [
+    "/Posts/Markdowns/xiaoheihe-test.md"
+  ],
   "DearDeer": [
     "/Posts/Markdowns/阶段汇总.md",
     "/Posts/游戏设计/DearDeer新企划.md",
@@ -117,10 +123,15 @@
     "/Posts/游戏设计/游戏设计中的团队合作.md",
     "/Posts/游戏设计/游戏设计元素.md"
   ],
+  "碎碎念": [
+    "/Posts/碎碎念/新的碎碎念.md"
+  ],
   "随笔": [
+    "/Posts/碎碎念/新的碎碎念.md",
     "/Posts/碎碎念/理想主义的花终将盛开在浪漫主义的土壤里.md"
   ],
   "记录": [
+    "/Posts/碎碎念/新的碎碎念.md",
     "/Posts/碎碎念/理想主义的花终将盛开在浪漫主义的土壤里.md"
   ],
   "读后感": [

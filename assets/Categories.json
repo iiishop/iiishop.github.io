@@ -30,7 +30,9 @@
     }
   },
   "中文推文": {
-    "files": [],
+    "files": [
+      "/Posts/Markdowns/KMBlog.md"
+    ],
     "childCategories": {
       "游戏企划": {
         "files": [],
@@ -104,6 +106,12 @@
           }
         }
       },
+      "想法": {
+        "files": [
+          "/Posts/碎碎念/新的碎碎念.md"
+        ],
+        "childCategories": {}
+      },
       "感想": {
         "files": [
           "/Posts/碎碎念/理想主义的花终将盛开在浪漫主义的土壤里.md",
@@ -111,6 +119,17 @@
           "/Posts/读后感/对文艺创作有感.md",
           "/Posts/读后感/赏《Demons Roots》后感.md",
           "/Posts/读后感/逸剑风云决测评.md"
+        ],
+        "childCategories": {}
+      }
+    }
+  },
+  "测": {
+    "files": [],
+    "childCategories": {
+      "试": {
+        "files": [
+          "/Posts/Markdowns/xiaoheihe-test.md"
         ],
         "childCategories": {}
       }
