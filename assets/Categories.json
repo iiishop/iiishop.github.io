@@ -123,16 +123,5 @@
         "childCategories": {}
       }
     }
-  },
-  "测": {
-    "files": [],
-    "childCategories": {
-      "试": {
-        "files": [
-          "/Posts/Markdowns/xiaoheihe-test.md"
-        ],
-        "childCategories": {}
-      }
-    }
   }
 }
