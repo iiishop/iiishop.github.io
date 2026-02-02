@@ -2,8 +2,14 @@
 title: CASA0020 GW Research
 date: 2026-02-01 04:11:53
 tags: 
+  - IoT Ethics
+  - Workplace Surveillance
+  - Occupeye
+  - Privacy Research
+  - CASA0020
 categories: 
 pre: 
+  An in-depth analysis of the Occupeye (FM:Systems) sensor system through the 2016 Daily Telegraph controversy. This report evaluates the product using the 'Better IoT' framework, examining the delicate balance between energy efficiency and employee privacy.
 img: 
 ---
 

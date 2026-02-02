@@ -2,8 +2,14 @@
 title: casa0021 Tasks Manage
 date: 2026-02-01 04:37:20
 tags: 
+  - ESP32
+  - Tailscale
+  - P2P Networking
+  - Embedded Systems
+  - CASA0021
 categories: 
 pre: 
+  A comprehensive technical roadmap for the "Cross-Border Butterfly" project. This document outlines a linear 45-day development cycle focusing on global connectivity (Tailscale/P2P), biomimetic actuation, and secure remote management using ESP32, specifically adapted for hardware integration starting mid-February.
 img: 
 ---
 
