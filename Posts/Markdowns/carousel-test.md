@@ -2,8 +2,9 @@
 title: "轮播图组件测试"
 date: "2026-02-01"
 tags: ["测试", "轮播图", "组件"]
-category: "测试"
-img: "1.png"
+categories: 
+- 测试
+img: carousel-test/1.jpg
 ---
 
 # 轮播图组件测试

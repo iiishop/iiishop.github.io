@@ -1,4 +1,10 @@
 {
+  "测试": {
+    "files": [
+      "/Posts/Markdowns/carousel-test.md"
+    ],
+    "childCategories": {}
+  },
   "EnglishBlog": {
     "files": [
       "/Posts/Markdowns/hello-world.md"
