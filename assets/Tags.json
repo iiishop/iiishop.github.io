@@ -1,4 +1,14 @@
 {
+  "测试": [
+    "/Posts/Markdowns/carousel-test.md",
+    "/Posts/Markdowns/simple-carousel-test.md"
+  ],
+  "轮播图": [
+    "/Posts/Markdowns/carousel-test.md"
+  ],
+  "组件": [
+    "/Posts/Markdowns/carousel-test.md"
+  ],
   "Helloworld": [
     "/Posts/Markdowns/hello-world.md"
   ],

@@ -9,6 +9,14 @@ img:
 ---
 
 # Hello KMBlog
+
+
+```carousel
+![网络图片1](https://picsum.photos/800/400?random=1 "随机图片1")
+![网络图片2](https://picsum.photos/800/400?random=2 "随机图片2")
+![网络图片3](https://picsum.photos/800/400?random=3 "随机图片3")
+```
+
 ```bangumi
 https://bgm.tv/subject/374638
 ```
@@ -25,7 +33,4 @@ https://github.com/iiishop/KMblog
 ```
 ```xiaohongshu-note
 https://www.xiaohongshu.com/explore/69765621000000000e00c91e?xsec_token=ABBVEPyq3-d0p0PfE4RQMnqGBt-kySU6I6gnEG7-RhRV8=&xsec_source=pc_feed
-```
-```xiaoheihe
-https://www.xiaoheihe.cn/app/bbs/link/174495898?htk=b6334e48572c3ab65522752d64b18240
 ```
