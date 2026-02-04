@@ -58,10 +58,15 @@
     "/Posts/Code/Signal.md"
   ],
   "Csharp": [
-    "/Posts/Code/Signal.md"
+    "/Posts/Code/Signal.md",
+    "/Posts/Code/SmartNPC.md"
   ],
   "Unity": [
-    "/Posts/Code/Signal.md"
+    "/Posts/Code/Signal.md",
+    "/Posts/Code/SmartNPC.md"
+  ],
+  "AI": [
+    "/Posts/Code/SmartNPC.md"
   ],
   "IoT Ethics": [
     "/Posts/UCL/casa0020 GW research.md"
