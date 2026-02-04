@@ -12,6 +12,7 @@ img: 3.png
 
 ---
 
+
 # Introduce
 `KMP` is a *String-matching* algorithm and one of the two *String-matching* algorithms I know.
 
