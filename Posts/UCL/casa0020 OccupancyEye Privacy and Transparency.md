@@ -2,6 +2,11 @@
 title: casa0020 OccupancyEye Privacy and Transparency
 date: 2026-02-06 14:20:32
 tags: 
+  - IoT Ethics
+  - Workplace Surveillance
+  - Occupeye
+  - Privacy Research
+  - CASA0020
 categories: 
 pre: 
 img: 
