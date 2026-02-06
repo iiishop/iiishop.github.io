@@ -8,7 +8,9 @@ tags:
   - Privacy Research
   - CASA0020
 categories: 
-pre: 
+  - UCL
+  - CASA0020
+pre: In-depth privacy and transparency analysis of OccupEye workplace monitoring system, examining the ethical implications of IoT-based employee surveillance.
 img: 
 ---
 
