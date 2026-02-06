@@ -59,4 +59,5 @@ Transparency is more than just a legal disclaimer; it is about the **balance of 
 ---
 # Simple Reference
 https://www.sportsjournalists.co.uk/journalism-news/telegraph-removes-sensors-from-journalists-desks/
+
 https://www.thedrum.com/news/daily-telegraph-removes-staff-tracking-devices-following-uproar
