@@ -116,8 +116,29 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <style>
 
       .quarto-title-block .quarto-title-banner {
-        background-image: url(images/Sequence01_4-ezgif.com-optimize.gif);
-background-size: cover;
+      background-image: url(images/Sequence01_4-ezgif.com-optimize.gif);
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-position: center center;
+      min-height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+      padding: 2rem;
+    }
+    .quarto-title-block .quarto-title-banner .quarto-title {
+      width: 100%;
+    }
+    .quarto-title-block .quarto-title-banner .quarto-title .title {
+      color: #ffffff;
+      text-shadow: 0 0 18px rgba(0, 0, 0, 0.75);
+      margin: 0 auto;
+      max-width: 44rem;
+      font-weight: 700;
+      font-size: clamp(2.7rem, 5.2vw, 4.2rem);
+      line-height: 1.05;
+      letter-spacing: -0.02em;
       }
 </style>
 
