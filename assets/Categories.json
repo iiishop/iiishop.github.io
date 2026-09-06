@@ -43,7 +43,9 @@
   },
   "中文推文": {
     "files": [
-      "/Posts/Markdowns/KMBlog.md"
+      "/Posts/Markdowns/KMBlog.md",
+      "/Posts/Code/MRUK识别不了台灯.md",
+      "/Posts/Code/StratumCode.md"
     ],
     "childCategories": {
       "游戏企划": {
